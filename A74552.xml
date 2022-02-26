@@ -1,0 +1,743 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the ejecting of scandalous, ignorant and insufficient ministers and school-masters. Tuesday August 29. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+            <title>Orders in Council. 1654-08-29.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74552</idno>
+            <idno type="STC">Thomason E1064_32</idno>
+            <idno type="STC">ESTC R210341</idno>
+            <idno type="EEBO-CITATION">99869150</idno>
+            <idno type="PROQUEST">99869150</idno>
+            <idno type="VID">169232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the ejecting of scandalous, ignorant and insufficient ministers and school-masters. Tuesday August 29. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+                  <title>Orders in Council. 1654-08-29.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 595-616, 613-624, 623, 625-626, 626-633, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Law and legislation --  Early works to 1800.</term>
+               <term>Teachers --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169232:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For the ejecting of Scandalous, Ignorant and Inſufficient MINISTERS AND School-Maſters.</p>
+            <figure>
+               <figDesc>coat of arms of the Protectorate</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order_to_print">
+                        <opener>
+                           <date>
+                              <hi>Tueſday Auguſt</hi> 29. 1654.</date>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169232:2"/>
+            <pb n="595" facs="tcp:169232:2"/>
+            <head>
+               <figure>
+                  <figDesc>coat of arms of the Protectorate</figDesc>
+               </figure> AN ORDINANCE For the Ejection of Scandalous, Ignorant and Inſufficient Miniſters &amp; Schoolmaſters.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the con<g ref="char:EOLhyphen"/>tinuance of divers ſcandalous &amp; inſuffi<g ref="char:EOLhyphen"/>cient Miniſters and School-Maſters in many Churches, Chappels and pub<g ref="char:EOLhyphen"/>lique Schools with<g ref="char:EOLhyphen"/>in this Nation, the more effectual propa<g ref="char:EOLhyphen"/>gation of the Goſpel, and ſettlement of a godly and painful Miniſtry, is much obſtru<g ref="char:EOLhyphen"/>cted,
+<pb n="596" facs="tcp:169232:3"/> and no Authority now in force for re<g ref="char:EOLhyphen"/>moving ſuch Miniſters and School-maſters; For remedy thereof, Be it Ordained by His Highneſs the Lord Protector, by and with the conſent of His Council, That the per<g ref="char:EOLhyphen"/>ſons hereafter named, ſhall be and are hereby appointed and conſtituted Commiſsioners for and within the reſpective Counties within <hi>England</hi> and <hi>Wales,</hi> for the ends and purpoſes hereafter in and by this Ordinance expreſſed and directed; That is to ſay,</p>
+            <div type="county">
+               <head>Bedford.</head>
+               <p>
+                  <hi>For the County of</hi> Bedford, Samuel Brown <hi>Serjeant at Law,</hi> John Harvey, John Okey, Richard Edwards, Peter Neal, John Neal, Joſeph Barbor, St. John Charnock, John Cockayn, Edmund Wingate, Samuel Bedford, Francis Aſtrey, Richard Wagſtaff, Gaius Squire, Edward Cater, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Peter Malory, <hi>Gent.</hi> John Crook, John Grew <hi>of</hi> Bedford.</p>
+            </div>
+            <div type="county">
+               <head>Berks.</head>
+               <p>
+                  <hi>For the county of</hi> Berks, Philip <hi>Lord</hi> Whar<g ref="char:EOLhyphen"/>ton, Samuel Dunch <hi>of</hi> Puzey, Cornelius Holland, Arthur Evelin <hi>of</hi> Bradfield, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Trapham <hi>of</hi> A<g ref="char:EOLhyphen"/>bington, Thomas Wood <hi>of</hi> Windſor, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Stroud <hi>of</hi> Ruſcum, <hi>Eſqs; Major</hi> Richard Fincher <hi>of</hi> Cheet<g ref="char:EOLhyphen"/>ly, <hi>Mr.</hi> Angel Bell <hi>of</hi> Ockingham, <hi>Mr.</hi> Nutkin <hi>of</hi> Ockingham, <hi>Major</hi> Francis Allen <hi>of</hi> Abington, <hi>Mr.</hi> Mills <hi>of</hi> Hungerford, Robert Stanton, Samuel Bellingham <hi>of</hi> Redding, <hi>
+                     <abbr>Eſqs</abbr> Colonel</hi> Chriſto<g ref="char:EOLhyphen"/>pher Whitchcot <hi>Governor of</hi> Windſor, Samuel Wightwick <hi>Eſq; Mr.</hi> Cook <hi>of</hi> Wallingford, <hi>Mr.</hi> Ruſden <hi>of</hi> Wallingford, <hi>Mr.</hi> Thomas Fettiplace,
+<pb n="597" facs="tcp:169232:3"/> Thomas Cox <hi>of</hi> Stanford, John Collins <hi>of</hi> Better<g ref="char:EOLhyphen"/>ton, Robert Luſh <hi>of</hi> Sparſhalt, Andrew Keep <hi>of</hi> Weſt-Hendred, Philip Allen <hi>of</hi> Wantage, Thomas Stanton <hi>of</hi> Upton, George Lambole of Redding, <hi>Eſquires.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Bucks.</head>
+               <p>
+                  <hi>For the county of</hi> Bucks, Philip <hi>Lord</hi> Whar<g ref="char:EOLhyphen"/>ton, Philip Skippon <hi>Major General,</hi> Iſaac Pen<g ref="char:EOLhyphen"/>nington <hi>Alderman of</hi> London, Richard Ingoldſ<g ref="char:EOLhyphen"/>by <hi>Eſq;</hi> Thomas Scot <hi>Eſq;</hi> Chriſtopher Eggleton <hi>Eſq;</hi> John Deveril <hi>Eſq;</hi> Anthony Ratcliff <hi>Eſq;</hi> George Fleetwood <hi>Eſq;</hi> William Grange <hi>of</hi> St. Leo<g ref="char:EOLhyphen"/>nard, Thomas White <hi>Eſq;</hi> Henry Whitbread, Wil<g ref="char:EOLhyphen"/>liam Scot, <hi>Eſq;</hi> Richard Baldwin <hi>Gent.</hi> William Grimeſdale <hi>Gent.</hi> Francis Ruſſel <hi>Eſq;</hi> Edmond Weſt, Simon Mayn, Richard Beke, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr>
+               </p>
+            </div>
+            <div type="county">
+               <head>Cambridge and Huntington, with the Iſle of Ely.</head>
+               <p>
+                  <hi>For the county of</hi> Cambridge <hi>and</hi> Huntington, <hi>with the Iſle of</hi> Ely, Henry <hi>Lord</hi> Cromwel, Henry Lawrence <hi>Lord Preſident of His High<g ref="char:EOLhyphen"/>neſs Council,</hi> John Disbrow <hi>Eſq;</hi> Edward Moun<g ref="char:EOLhyphen"/>tague <hi>Eſq;</hi> John Thurloe <hi>Eſq;</hi> Stephen Pheſant <hi>Eſq;</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Pickering <hi>of</hi> Cambridge, Richard Tyms <hi>Alderman of</hi> Cambridge, <hi>Alderman</hi> French, Ro<g ref="char:EOLhyphen"/>bert Caſtle <hi>Eſq;</hi> Thomas Bendiſh, Joſeph Everſden, Richard Stayn <hi>Doctor of Phyſick,</hi> Francis Ruſ<g ref="char:EOLhyphen"/>ſel <hi>Eſq;</hi> Edward Leeds <hi>of</hi> Croxton <hi>Gent.</hi> Iſaac Disbrow, John Lowrey, Henry Pickering <hi>Eſq; Mr.</hi> Bryan <hi>Alderman of</hi> Cambridge, Samuel Spaulding, Robert Vinter, Griffith Lloyd, <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi>
+                  <pb n="598" facs="tcp:169232:4"/> Nicholas Pedley <hi>Eſq;</hi> Gervaſe Fulwood, <hi>Doctor</hi> Syncots, Ralph Mallory.</p>
+            </div>
+            <div type="county">
+               <head>Cheſter.</head>
+               <p>
+                  <hi>For the county of</hi> Cheſter, Humphrey Mack<g ref="char:EOLhyphen"/>worth <hi>Eſq; Sir</hi> William Brereton <hi>Baronet; Sir</hi> George Booth <hi>Baronet; Sir</hi> Henry Delves <hi>Baronet;</hi> Robert Duckenfield <hi>Eſq;</hi> Thomas Man<g ref="char:EOLhyphen"/>waring <hi>Eſq;</hi> Jonathan Brewen <hi>Eſq;</hi> Henry Birk<g ref="char:EOLhyphen"/>enhead, John Crew <hi>of</hi> Utkinton <hi>
+                     <abbr>Eſqs</abbr> Mr.</hi> John Ratcliff <hi>of</hi> Cheſter, William Tuchet <hi>Eſq;</hi> John Lee <hi>of</hi> Booth <hi>Eſq;</hi> Robert Gregg, James Gartfide, Nicholas Goulborn, Calven Bruen <hi>Alderman of</hi> Cheſter, Peter Leigh <hi>Alderman of</hi> Cheſter, Richard Green <hi>Eſq;</hi> Richard Wright <hi>Gent.</hi> Edward Brad<g ref="char:EOLhyphen"/>ſhaw <hi>Major of</hi> Cheſter.</p>
+            </div>
+            <div type="county">
+               <head>Cornwal.</head>
+               <p>
+                  <hi>For the county of</hi> Cornwal, Francis Rous <hi>Eſq;</hi> Anthony Rous <hi>Eſq;</hi> Hugh Boſcawen <hi>Eſq;</hi> John Moyl <hi>Eſq;</hi> Anthony Nicol <hi>Eſq;</hi> Richard Carter <hi>Eſq;</hi> Andrew Trevil <hi>Eſq;</hi> Thomas Ceely <hi>Eſq;</hi> John Thomas <hi>Eſq;</hi> Richard Penwarn, <hi>Eſq;</hi> Robert Ben<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et <hi>Eſq;</hi> John Fox <hi>of</hi> Pendinnis, Thomas Howel <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f</hi> Truro, Peter Ceely, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Chattey <hi>of</hi> Truro.</p>
+            </div>
+            <div type="counties">
+               <head>Cumberland, Durham, Northumberland, and Weſtmerland.</head>
+               <p>
+                  <hi>For the counties of</hi> Cumberland, Durham, Nor<g ref="char:EOLhyphen"/>thumberland <hi>and</hi> Weſtmerland, Philip <hi>Lord</hi> Wharton, <hi>Sir</hi> Arthur Heſilrige <hi>Baronet;</hi> George Fenwick <hi>Eſq;</hi> Charls Howard <hi>Eſq;</hi> Henry Ogle <hi>Eſq;</hi> Robert Fenwick <hi>Eſq;</hi> Ralph Salkeild <hi>Eſq;</hi> William Webb, Andrew Criſp, Edward Nelſon, Thomas Craiſter <hi>of</hi> Carliſle, John Wood <hi>of</hi> Coc<g ref="char:EOLhyphen"/>kermouth, Cuthbert Studholm, Thomas Langhorn,
+<pb n="599" facs="tcp:169232:4"/> William Thompſon, William Briſco <hi>Eſq;</hi> John Middleton, Anthony Smith <hi>of</hi> Durham, Thomas Lacy <hi>of</hi> Sunderland, Thomas Huntley, Robert Sharp, Robert Lilburn <hi>Eſq; Alderman</hi> Ledgard <hi>of</hi> New<g ref="char:EOLhyphen"/>caſtle, <hi>Mr.</hi> Johnſon <hi>of</hi> Newcaſtle, William Garnet <hi>of</hi> Oaſterton, William Applegarth, James Cock <hi>of</hi> Kendal, John Archer <hi>of</hi> Kendal, Chriſtop: Liſter <hi>Eſq;</hi>
+               </p>
+            </div>
+            <div type="counties">
+               <head>Derby and Notingham.</head>
+               <p>
+                  <hi>For the counties of</hi> Derby, <hi>and</hi> Notingham, <hi>Sir</hi> Francis Burdet <hi>Baronet; Sir</hi> Samuel Sleigh <hi>Knight,</hi> John Ferrars <hi>Eſq;</hi> James Abney <hi>Eſq;</hi> Tho<g ref="char:EOLhyphen"/>mas Sanders <hi>Eſq;</hi> John Gell <hi>junior Eſq;</hi> Nathaniel Hallows <hi>Eſq;</hi> Robert Mellor, Edward Gell, Jervis Bennet, Nathaniel Barton, Edward Mould, John Spateman, Edward Charleton, Edward Whaley <hi>Eſq;</hi> Gervaſe Piggot <hi>Eſq;</hi> Edward Cludd, William Wight<g ref="char:EOLhyphen"/>man <hi>of</hi> Stoke, Thomas Linley, Charls White, John Oddingſels, Chriſtopher Wilſon <hi>of</hi> Newark, Tho<g ref="char:EOLhyphen"/>mas Briſtow <hi>of</hi> Elſton <hi>Gent.</hi> Richard Trueman, Philip Lacock <hi>of</hi> Stoke <hi>Eſq;</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Devon and Exceſter.</head>
+               <p>
+                  <hi>For the county of</hi> Devon and Exceſter, John Disbrow <hi>Eſq;</hi> Arthur Upton <hi>Eſq;</hi> Thomas Reynel <hi>Eſq;</hi> Thomas Sanders <hi>Eſq;</hi> John Blackmore, <hi>Eſq;</hi> James Eriſie <hi>Eſq;</hi> John Elford, Henry Hatſel, John Copleſton, John Serl, William Morris, <hi>Eſq;</hi> John Plea <hi>of</hi> Dartmouth, Chriſtopher Ceely, Juſtinian Peard, Martin Parris <hi>of</hi> Plymouth, John Wollacomb, Rowland Whiddon, Thomas Bampfield, James Pearl, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> John Rowe <hi>of</hi> Crediton, Chriſtopher Mar<g ref="char:EOLhyphen"/>tin <hi>Eſq;</hi> John Champneys <hi>Eſq;</hi> William Fry, Ro<g ref="char:EOLhyphen"/>bert Roll, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> William Yeo <hi>of</hi> Plimouth, Wil<g ref="char:EOLhyphen"/>liam Baſtard <hi>Eſq;</hi>
+               </p>
+            </div>
+            <div type="county">
+               <pb n="600" facs="tcp:169232:5"/>
+               <head>Dorſet and Pool.</head>
+               <p>
+                  <hi>For the county of</hi> Dorſet <hi>and</hi> Pool, <hi>Sir</hi> Antho<g ref="char:EOLhyphen"/>ny-Aſhley Cooper <hi>Baronet,</hi> William Sydenham <hi>Eſq; Sir</hi> Walter Earl <hi>Knight,</hi> John Bingham, Dennis Bond, John Trenchard, Henry Henley, John Whiteway, Thomas Moor, John Buſhrod, Walter Foy <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Edward Butler, James Dewy, Edward Chick, John Lea, Jeremy Pothecary, George Skutt, William Thornhul, James Mew <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>York Eaſt-Riding, and Kingſton upon Hull.</head>
+               <p>Thomas <hi>Lord</hi> Fairfax, John Lambert <hi>Major General of the Army,</hi> Walter Strickland <hi>Eſq; Sir</hi> Thomas Widdrington <hi>Knight, one of the Lords Commiſsioners of the Great Seal; Sir</hi> William Conſtable <hi>Baronet, Sir</hi> William Strickland, John Lawſon <hi>Eſq; Mr.</hi> Stillington, <hi>Mr.</hi> Bryan Dawſon, <hi>Captain</hi> Bradford, Richard Darley <hi>Eſq;</hi> William Coulſon, Thomas Hudſon <hi>and</hi> James Nelthrop, <hi>Aldermen of</hi> Beverley, Thomas Neſs, Robert Leppington, Edward Atkinſon, Ti<g ref="char:EOLhyphen"/>mothy Lun, Hugh Bethel <hi>Eſq;</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Weſt-Riding and City of York.</head>
+               <p>Thomas <hi>Lord</hi> Fairfax, John Lambert <hi>Major General of the Army; Sir</hi> Thomas Widdring<g ref="char:EOLhyphen"/>ton <hi>Knight, one of the Lords Commiſsioners of the Great Seal, Colonel</hi> John Bright, <hi>Al<g ref="char:EOLhyphen"/>derman</hi> Thomas Dickenſon, <hi>Alderman</hi> Stephen Watſon, <hi>Alderman</hi> Geldard, <hi>Colonel</hi> Charls Fair<g ref="char:EOLhyphen"/>fax, <hi>Captain</hi> Henry Weſtby, <hi>Mr.</hi> John Penroſe, <hi>Mr.</hi> Waſhington, <hi>Mr.</hi> John Wadſworth, <hi>Mr.</hi> John Iſcot, <hi>Mr.</hi> Marmaduke Rivers, <hi>Maſter</hi> John
+<pb n="601" facs="tcp:169232:5"/> Vincent <hi>of</hi> Warnſworth, <hi>Mr</hi> Aſhton <hi>of</hi> Arnolds-biggon, <hi>Mr</hi> Stanhop, <hi>Mr</hi> Dineley, William Farror <hi>of</hi> Evvood, William Ingleby <hi>of</hi> Ripley, Alexander Johnſon, <hi>Mr</hi> William Drake, <hi>Captain</hi> George Byard, Thomas Bourchier, Robert Smith, Jeremy Dickſon.</p>
+            </div>
+            <div type="county">
+               <head>North-riding.</head>
+               <p>North-riding; <hi>Thomas</hi> Lord <hi>Fairfax, John Lambert</hi> Major General of the Army, Sir <hi>Thomas Widdrington</hi> Knight, one of the Lords Commiſſioners of the great Seal, Sir <hi>John Bourchier, Thomas Waſtall</hi> Eſquire, <hi>Francis Laſſells</hi> Eſquire, <hi>George</hi> Lord <hi>Eure, William Aſchough,</hi> Captain <hi>Nicolas Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yers,</hi> Captain <hi>Thomas Davill,</hi> Mr <hi>Thomas Harriſon.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Eſſex.</head>
+               <p>
+                  <hi>For the County of</hi> Eſſex; Dudley Templer <hi>Eſq;</hi> Dionyſius Wakering <hi>Eſq;</hi> Robert Crane <hi>Gent.</hi> John Fenning <hi>Gent. Sir</hi> Thomas Honywood, <hi>Sir</hi> William Maſham, William Maſham <hi>Eſq;</hi> Henry Mildmay <hi>of Graces,</hi> Oliver Raymond, Gobert Barrington, Thomas Cook <hi>of</hi> Pedmarſh, Carey Mild<g ref="char:EOLhyphen"/>may, Richard Herlackendon, Arthur Barnadiſton, Robert Maidſton, John Brewſter, John Meade, He<g ref="char:EOLhyphen"/>zekiah Haines <hi>Eſquires,</hi> Joachim Mathews <hi>Eſquire,</hi> Henry Barrington <hi>Eſquire,</hi> Herbert Pel<g ref="char:EOLhyphen"/>ham <hi>Eſquire.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Gloceſter.</head>
+               <p>
+                  <hi>For the County of</hi> Gloceſter; <hi>and for the City and County of the City of</hi> Gloceſter,
+<pb n="602" facs="tcp:169232:6"/> Nathanael Stephens, Adrian Scroope, Thomas Hod<g ref="char:EOLhyphen"/>ges, John Stevens, John Dorney, Giles Hancock, Ja<g ref="char:EOLhyphen"/>ſper Clutterbuck <hi>Eſquire,</hi> Sylvanus Wood <hi>Gent.</hi> John Waade, John Crofts, Thomas Purey <hi>Eſquire,</hi> William Webley, Anthony Kingſcot <hi>Eſquire.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Hereford.</head>
+               <p>
+                  <hi>For the County of</hi> Hereford; <hi>Sir</hi> Robert Harley, Edward Harley, John James, John Scuda<g ref="char:EOLhyphen"/>more <hi>of</hi> Kenchurch, Thomas Rawlins, Wroth Ro<g ref="char:EOLhyphen"/>gers, John Flacker, John Pateſhall <hi>of</hi> Puddleſtone, Sylvanus Taylor <hi>Eſquires,</hi> Thomas Eaton <hi>Gent.</hi> John Aſhton <hi>of</hi> Ludlow <hi>in</hi> Shropſhire <hi>Gent.</hi> Pria<g ref="char:EOLhyphen"/>mus Davies <hi>Eſquire,</hi> John Chelmeld <hi>Gent.</hi> Thomas Blaney <hi>Gent.</hi> Richard Reed <hi>Gent.</hi> Wil<g ref="char:EOLhyphen"/>liam Botterell <hi>Eſquire,</hi> Thomas Seabourne, Wil<g ref="char:EOLhyphen"/>liam Lane, Francis Pember <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Hertford.</head>
+               <p>
+                  <hi>For the County of</hi> Hertford; Henry Lawrence <hi>Lord Preſident of His Highneſs Council, Sir</hi> John Wittronge, John Fiennes, John Marſh, Francis White <hi>Eſquires,</hi> Iſaac Puller <hi>Eſquire,</hi> William Turner <hi>of</hi> Hertford, Alban Cox, <hi>Maſter</hi> Combes <hi>the yonger of</hi> Hemſted, <hi>Colonel</hi> Waſh<g ref="char:EOLhyphen"/>ington, Thomas Nicholl, William Leman <hi>Eſquire,</hi> Ralph Gladman <hi>Gent.</hi> William Packer <hi>Eſquire,</hi> William Hickman <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Kent.</head>
+               <p>
+                  <hi>For the County of Kent;</hi> Philip <hi>Lord Viſ<g ref="char:EOLhyphen"/>count</hi> Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, Henry Oxenden <hi>of</hi> Dean <hi>Eſquire,</hi> Thomas Foach <hi>of the Iſle of</hi> Thanet <hi>Eſq;</hi> Tho<g ref="char:EOLhyphen"/>mas
+<pb n="603" facs="tcp:169232:6"/> Kelſey <hi>Eſquire,</hi> Peter Peek, Thomas S<hi rend="sup">t</hi> Nicolas <hi>of</hi> Aſh <hi>Eſquires,</hi> John Boys <hi>of</hi> Betſhanger <hi>Eſq;</hi> Thomas Wilſon <hi>of</hi> Sandwich <hi>Gent.</hi> William Cul<g ref="char:EOLhyphen"/>len <hi>of</hi> Dover <hi>Eſquire,</hi> John Dixwell, Thomas Scot <hi>of</hi> Canterbury <hi>Eſquires,</hi> Thomas Munnings, Robert Maskall <hi>of</hi> Canterbury, Edward Ower <hi>Gent.</hi> Whit<g ref="char:EOLhyphen"/>tington Wood <hi>of</hi> Canterbury <hi>Eſquire,</hi> James Sceat, <hi>of</hi> Tenterdeane, Robert Gibon, Richard Beale, Lam<g ref="char:EOLhyphen"/>bert Godfrey <hi>Eſquires, Sir</hi> Thomas Stiles <hi>Knight and Baronet,</hi> Charles Bowles <hi>of</hi> Rocheſter <hi>Eſq; Maſter</hi> Kennet <hi>of</hi> Lye, <hi>Maſter</hi> Lancaſton <hi>of</hi> Rumney, Ralph Welden <hi>Eſquire.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Lancaſter.</head>
+               <p>
+                  <hi>For the County of</hi> Lancaſter; <hi>Sir</hi> Richard Houghton, Gilbert Ireland <hi>Eſquire,</hi> Thomas Fell, Thomas Birch, William Aſhurſt, Richard Ha<g ref="char:EOLhyphen"/>worth, Edward Robinſon <hi>Eſquires,</hi> William Weſt <hi>Gent.</hi> Jerijah Aſpinwall, Randall Sharpleſſe, George Piggot, John Sawrey <hi>Gent.</hi> Charles VVorſ<g ref="char:EOLhyphen"/>ley <hi>Eſquire,</hi> John VViggan <hi>Eſquire.</hi>
+               </p>
+            </div>
+            <div type="counties">
+               <head>Leiceſter.</head>
+               <p>
+                  <hi>For the Counties of</hi> Leiceſter <hi>and</hi> Rutland; Henry <hi>Lord</hi> Cromwell, <hi>Sir</hi> Arthur Heſilrige <hi>Ba<g ref="char:EOLhyphen"/>ronet,</hi> Francis Hacker <hi>Eſquire,</hi> Peter Temple <hi>Eſq; Maſter</hi> John Prat, <hi>Maſter</hi> John Godman, Willi<g ref="char:EOLhyphen"/>am Hubbard <hi>Gent. Mr.</hi> William Stanley, <hi>Mr.</hi> Ed<g ref="char:EOLhyphen"/>mund Craddock <hi>Aldermen of</hi> Leiceſter; <hi>Mr.</hi> Sa<g ref="char:EOLhyphen"/>muel Wanley <hi>the elder, Mr.</hi> Anthony Maior <hi>of</hi> Leiceſter, <hi>Mr.</hi> John Horton, Thomas Cockran, <hi>Gent.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Palmer, Henry Smith, Edward Smith <hi>Eſq;</hi> Evers Ermyne <hi>Eſquire,</hi> Robert Horſman <hi>Eſq;</hi> Edward Horſman <hi>Eſquire,</hi> William Sheild <hi>Eſq;</hi>
+                  <pb n="604" facs="tcp:169232:7"/> Benjamin Norton, John Weaver <hi>Eſquires.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Lincoln.</head>
+               <p>
+                  <hi>For the County of</hi> Lincoln; Nathanaël Fiennes <hi>Eſquire,</hi> William Savile <hi>of</hi> Newton <hi>Eſquire,</hi> Ed<g ref="char:EOLhyphen"/>ward Roſsiter, Thomas Coppledick <hi>of</hi> Harrington <hi>Eſquire,</hi> Iohn Archer <hi>Eſquire,</hi> Nehemiah Raw<g ref="char:EOLhyphen"/>ſon <hi>of</hi> Bickwood <hi>Eſquire,</hi> Robert Yearborough <hi>Eſquire, Maſter</hi> Wilsby <hi>of</hi> Spaulding, Philip Mounton <hi>Eſquire,</hi> Humphrey Walcott <hi>of</hi> Lincoln <hi>Eſquire, Maſter</hi> Thomſon <hi>of</hi> Roxby, Theophilus Hart <hi>Gent.</hi> Thomas Hall <hi>of</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>annington <hi>Eſquire,</hi> Iohn Diſney <hi>Gent. Maſter</hi> Harvey <hi>of</hi> Lincoln, <hi>Maſter</hi> Marſhall <hi>of</hi> Lincoln, William Berry <hi>of</hi> Grantham <hi>Eſquire, Maſter</hi> Matthias Browne <hi>of</hi> Horbling, <hi>Mr.</hi> Thomas Law, <hi>Mr.</hi> Whyteing, <hi>Mr.</hi> Tilſon <hi>jun. Aldermen of</hi> Boſton, Iames Berry, Francis Clinton, <hi>alias</hi> Fiennes <hi>Eſq; Mr.</hi> Cole <hi>of</hi> Stamford, Samuel Cuſt <hi>of</hi> Boſton.</p>
+            </div>
+            <div type="county">
+               <head>Middleſex.</head>
+               <p>
+                  <hi>For the County of</hi> Middleſex <hi>and City of</hi> Weſtminſter, <hi>Sir</hi> Gilbert Pickering <hi>Baronet,</hi> Phi<g ref="char:EOLhyphen"/>lip Skippon <hi>Eſq; Sir</hi> Iames Harrington <hi>Knight and Baronet, Sir</hi> William Roberts <hi>Knight,</hi> Edmond Harvey <hi>Eſquire,</hi> Edward Whaley, William Goffe <hi>Eſquires,</hi> Iohn Humphreyes, Richard Down<g ref="char:EOLhyphen"/>ton, Daniel Proctor, Paul Wittoll, Walter Bigg, Iohn Brown, William Boſvile, Iohn Baldwyn, Maurice Thompſon, Iohn Stone, Francis Bloomer <hi>Eſquires,</hi> Iohn Barkſtead <hi>Lievtenant of the Tower,</hi> Ed<g ref="char:EOLhyphen"/>ward Creſſer, Iuſtinian Paget, Iohn Downes, Henry Scobell <hi>Eſquire,</hi> George Evelyn <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <pb n="605" facs="tcp:169232:7"/>
+               <head>London.</head>
+               <p>
+                  <hi>For the City of</hi> London; <hi>Sir</hi> Thomas Vyner <hi>Knight Lord Maior,</hi> Philip Skippon <hi>Major General,</hi> Iſaac Pennington, Thomas Andrews, Ro<g ref="char:EOLhyphen"/>bert Tichburne, Tempeſt Milner <hi>Aldermen of</hi> Lon<g ref="char:EOLhyphen"/>don, William Steele <hi>Serjeant at Law Recorder,</hi> Iohn Sadler <hi>Eſquire,</hi> Maurice Gethings, Thomas Staines, <hi>Maſter</hi> Aſhurſt, Iohn Strange, <hi>Mr.</hi> Barrer, John Langley, John Stone <hi>Eſquires, Alderman</hi> Pack, <hi>Alderman</hi> Riccot, Stephen Eaſtwick <hi>Alder<g ref="char:EOLhyphen"/>man,</hi> Abraham Babington, William Hobſon, Charls Doyley, William Puckle <hi>of</hi> Broadſtreet, William Thompſon <hi>Alderman,</hi> Francis Warren <hi>of</hi> New-Fiſhſtreet-hill, Marke Coe, Richard Lloyd, Maurice Thompſon.</p>
+            </div>
+            <div type="county">
+               <head>Monmouth.</head>
+               <p>
+                  <hi>For the County of</hi> Monmouth; Richard <hi>Lord</hi> Cromwell, Philip <hi>Lord Viſcount</hi> Liſle, Philip Jones <hi>Eſquire,</hi> Henry Herbert, William, Blethyn, John Nicolas, Francis Blethyn, Roger Williams, Ed<g ref="char:EOLhyphen"/>ward Herbert, Chriſtopher Catchmay, Robert Jones, Rice Williams, William Packer, Samuel Jones, John Morgan, Thomas Evans <hi>Eſquires.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Norfolk.</head>
+               <p>
+                  <hi>For the County of</hi> Norfolk, Henry Lawrence <hi>Lord Preſident of His Highneſs Council,</hi> Philip Skippon <hi>Eſquire,</hi> Hezekiah Haynes, Charles George Cock <hi>Eſq; Sir</hi> John Hobbart <hi>Knight, and Baronet, Sir</hi> Thomas Hogan, Robert Wood, Edward Ward, Tobias Fryer, Henry King, Edward
+<pb n="606" facs="tcp:169232:8"/> Bulwer <hi>of</hi> Heyden, John Reynes, Ralph Woolmer, Ro<g ref="char:EOLhyphen"/>ger Harper, Joſhua Greene <hi>and</hi> Thomas Scot <hi>of</hi> Lyn, Thomas Barret, Nicolas Saulter <hi>of</hi> Norwich, Iſaac Preſton <hi>of</hi> Yarmouth, <hi>Maſter</hi> Dunn, <hi>Maſter</hi> Thomas Garret, Thomas Ruſſell <hi>of</hi> North-Baſham <hi>Eſq;</hi> Edmund Creamar <hi>of</hi> Snetſham <hi>Eſquire,</hi> Mar<g ref="char:EOLhyphen"/>tin Haſtings <hi>of</hi> Hindringham <hi>Eſq;</hi> John Toft <hi>of</hi> Norwich.</p>
+            </div>
+            <div type="county">
+               <head>Northampton.</head>
+               <p>
+                  <hi>For the County of</hi> Northampton; <hi>Sir</hi> Gil<g ref="char:EOLhyphen"/>bert Pickering <hi>Baronet, Sir</hi> John Dreydon <hi>Ba<g ref="char:EOLhyphen"/>ronet,</hi> John Crew <hi>of</hi> Stene <hi>Eſquire,</hi> John Thorn<g ref="char:EOLhyphen"/>ton, Edward Farmer <hi>of</hi> Daventry, Peter Whaley <hi>of</hi> Northampton, Thomas Brookes <hi>of</hi> Great Okely <hi>Eſq;</hi> John Cleypool <hi>of</hi> Narborough <hi>Eſquire,</hi> Thomas Pentlow <hi>of</hi> Wilby, William Boteler <hi>of</hi> Owndle, Alex<g ref="char:EOLhyphen"/>ander Blake <hi>of</hi> Peterburgh, John Browne <hi>of</hi> Ketter<g ref="char:EOLhyphen"/>ing, Robert Guy <hi>of</hi> Iſham, John Woodford <hi>of</hi> Nor<g ref="char:EOLhyphen"/>thampton, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ruſhworth <hi>of</hi> Northampton, <hi>Mr.</hi> Grindon <hi>of</hi> Blacheley.</p>
+            </div>
+            <div type="county">
+               <head>Oxon.</head>
+               <p>
+                  <hi>For the County of</hi> Oxon; William <hi>Lord</hi> Say <hi>and</hi> Seale, Nathanaël Fiennes <hi>Eſquire, Sir</hi> Charles Wolſeley <hi>Baronet,</hi> John Fiennes, Adrian Scroope, Walter Elwood <hi>Eſquires, Maſter</hi> Berry <hi>of</hi> Ox<g ref="char:EOLhyphen"/>ford, Thomas Appletree, John Vue <hi>of</hi> Watlington <hi>Gent. Maſter</hi> Beale <hi>of</hi> Banbury, Tobias Garbrand <hi>Doctor of Phyſick,</hi> John Carey <hi>of</hi> Dichley <hi>Gent.</hi> William Whateley <hi>of</hi> Banbury <hi>Gent. Ma<g ref="char:EOLhyphen"/>ſter</hi> George Blunt <hi>of</hi> Wiggington, <hi>Maſter</hi> William Allen <hi>of</hi> Banbury, John Nikon <hi>Alderm. of</hi> Ox<g ref="char:EOLhyphen"/>ford, Thomas Weekes, Matthew Martyn, <hi>Maſter</hi>
+                  <pb n="607" facs="tcp:169232:8"/> Francis Webb <hi>of</hi> Bodicoate, <hi>Maſter</hi> Eliſha Coles, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Hunt <hi>Gent.</hi> John Goddard <hi>Doctor of Phyſick, Doctor</hi> Croſſe <hi>of</hi> Magdalen <hi>College, Maſter</hi> Stephens <hi>of</hi> Oxford.</p>
+            </div>
+            <div type="county">
+               <head>Salop.</head>
+               <p>
+                  <hi>For the County of</hi> Salop; Humfrey Mack<g ref="char:EOLhyphen"/>worth <hi>Eſquire,</hi> John Corbet, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſwel Taylor, Ro<g ref="char:EOLhyphen"/>bert Corbet, Thomas Mackworth, Thomas Baker, Roger Evans, Launcelet Ley, Thomas Ketilby, Sa<g ref="char:EOLhyphen"/>muel Moore, Thomas Hunt, Rowland Hunt, Charls Langford, Edward Creſſet, John Downes <hi>Eſquires, Captain</hi> Richard Smith, John Aſhon <hi>Gentlem.</hi> William Botterell <hi>Gentleman,</hi> Richard Cheſhire <hi>Alderman of</hi> Shrewsbury, Richard Henage <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> Richard Piggot <hi>of</hi> Shrewsbury <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Stafford.</head>
+               <p>
+                  <hi>For the County of</hi> Stafford; <hi>Sir</hi> Charls Wolſe<g ref="char:EOLhyphen"/>ley <hi>Baronet,</hi> John Swinfen <hi>junior,</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Adſhead, John Lee <hi>of</hi> Ruſhall, Henry Stone, William Bendy <hi>junior,</hi> Thomas Bagnall <hi>Eſq;</hi> William Tur<g ref="char:EOLhyphen"/>ton <hi>Gentl.</hi> Zachary Babington, Thomas Sanders <hi>Eſq;</hi> Thomas Whitgrave <hi>Eſq;</hi> William Gent <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> George Bello<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, John Chetwood <hi>Eſquires, Maſter</hi> Mott, <hi>Maſter</hi> Myners, <hi>Maſter</hi> Saxon, John Ley, Thomas Fox <hi>of</hi> Tamworth <hi>Gent.</hi> Alex<g ref="char:EOLhyphen"/>ander Wightwick <hi>Eſquire.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Somerſet.</head>
+               <p>
+                  <hi>For the County of</hi> Somerſet <hi>and City of</hi> Briſtol; Iohn Disbrow <hi>Eſquire,</hi> Robert Blake, A<g ref="char:EOLhyphen"/>drian Scroope <hi>Eſquires,</hi> Alexander Popham <hi>Eſq;
+<pb n="608" facs="tcp:169232:9"/> Sir</hi> Thomas Wroth, <hi>Mr</hi> James Powell, Richard Aldworth, Robert Aldworth, Thomas Gorges, John Gorges <hi>Eſquires,</hi> John Buckland, Richard Jones, Thomas Syderfin <hi>Eſquires, Sir</hi> Iohn Horner, Henry Henley, Robert Hunt, Iohn Carey <hi>of</hi> Caſtle-Cary, <hi>Doctor</hi> Palmer, Iohn Preſton, Roger Hill, <hi>of</hi> Pounsford <hi>Eſquires,</hi> George Milward <hi>of</hi> She<g ref="char:EOLhyphen"/>pton Mallet <hi>Gent.</hi> Henry Bonner, Thomas Hipſley John Hagger <hi>Eſquires,</hi> Luke Hodges, Iohn Har<g ref="char:EOLhyphen"/>rington, Iohn Sealy <hi>of</hi> Bridgwater.</p>
+            </div>
+            <div type="county">
+               <head>Southampton.</head>
+               <p>
+                  <hi>For the County of</hi> Southampton, <hi>and the Town and County of</hi> Southampton; Richard <hi>Lord</hi> Cromwell, William Sydenham, Richard Ma<g ref="char:EOLhyphen"/>jor <hi>Eſquires,</hi> Iohn Liſle <hi>one of the Lords Commiſſioners of the Great Seal,</hi> Richard Norton, Richard Whithead, John Buckley <hi>Eſquires,</hi> Nathanaël VVhetham <hi>Governor of</hi> Portſmouth, <hi>Sir</hi> John Dingley, <hi>Knight,</hi> VVilliam Bowerman, Thomas Bowerman, Francis River, Robert Goffe, John Hildeſley, John Pitman <hi>Eſquires,</hi> Richard Moore, Peter Legay, George Searle, Samuel Bull, Tho<g ref="char:EOLhyphen"/>mas Chaſe, <hi>Captain</hi> Newhan, John Greenowes, <hi>Mr</hi> Horwood <hi>of the City of</hi> VVincheſter, John VVat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>man, Daniel Her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end.</p>
+            </div>
+            <div type="county">
+               <head>Suffolk.</head>
+               <p>
+                  <hi>For the County of</hi> Suffolk; James Hubland, Robert Brewſter, Francis Brewſter, Thomas Bacon, John Gurdon, VVilliam Gibbs <hi>Eſquires,</hi> Robert Gurdon, Joſeph Brand <hi>Eſquires, Sir</hi> Thomas Bar<g ref="char:EOLhyphen"/>nadiſton, Giles Barnadiſton <hi>Eſquires,</hi> John Clerk <hi>of</hi> Bury S<hi rend="sup">t</hi> Edmonds, Francis Theob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Gentlemen,</hi>
+                  <pb n="609" facs="tcp:169232:9"/> Nathanael Bacon, Francis Bacon, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Samuel Moody <hi>of</hi> Bury St. Edmunds, Humphrey Moſeley <hi>Eſq;</hi> Barnaby Bowtel <hi>Eſq;</hi> Henry Sampſon <hi>of</hi> Framlington, Edward Barker <hi>of</hi> Aye, <hi>Mr.</hi> Woodal <hi>of</hi> Woodbridge.</p>
+            </div>
+            <div type="county">
+               <head>Surrey.</head>
+               <p>
+                  <hi>For the County of</hi> Surrey, Philip <hi>Lord Viſ<g ref="char:EOLhyphen"/>count</hi> Liſle, John Lambert, <hi>Major Generall of the Army,</hi> William Sydenham <hi>eſq; Sir</hi> Richard Onſlow, Arthur Onſlow <hi>eſq;</hi> Robert Titchburn, <hi>Alderman of</hi> London, <hi>Sir</hi> William Brereton, Francis Drake <hi>eſq;</hi> Sidrack Brice, John Blackwell, Robert Goodwin, John Corbet, George Thompſon, Lewis Audley, William Molins, Walter St. Iohn, Francis Allen, <hi>eſquires,</hi> John Blackwel <hi>junior,</hi> Iames Shirley, Abraham Babington, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Tarlton, Iohn Ruſhworth, <hi>eſquires.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Suſſex.</head>
+               <p>
+                  <hi>For the County of</hi> Suſſex, Anthony Stapley <hi>eſq;</hi> Iohn Stapley, Nathanael Studley, William Caw<g ref="char:EOLhyphen"/>ley <hi>the elder,</hi> Arthur Bettſworth, Anthony Shearly, <hi>eſquires,</hi> Iohn Poling, Iohn Love, <hi>Gentlemen,</hi> William Polhill <hi>of</hi> Burriſh, <hi>Mr.</hi> Got, Herbert Mor<g ref="char:EOLhyphen"/>ley, Iohn Fagg <hi>of</hi> Wiſton, William Freeman <hi>of</hi> Cow<g ref="char:EOLhyphen"/>fold, Richard Knowls <hi>of</hi> Waterfeild, Edward Cook <hi>of</hi> Fieldplace, William Hayes <hi>of</hi> Hawſted, <hi>eſquires</hi> Iohn Holloway <hi>of</hi> North-Chappel, Edward Prat, Anthony Hilton, Richard Manning, Thomas Thorn<g ref="char:EOLhyphen"/>comb, Thomas Ballard <hi>Gentlemen, Mr.</hi> Burdit, <hi>Mr.</hi> Bret, <hi>Mr.</hi> Ruſſel, Iohn Busbridge.</p>
+            </div>
+            <div type="county">
+               <pb n="610" facs="tcp:169232:10"/>
+               <head>VVarwick.</head>
+               <p>
+                  <hi>For the County of</hi> Warwick, William Pure<g ref="char:EOLhyphen"/>foy, <hi>eſquire,</hi> Richard Lucy, Thomas Willoughby, Joſeph Hawkſworth, <hi>eſquires,</hi> Walden Willing<g ref="char:EOLhyphen"/>ton, <hi>Mr.</hi> John St. Nicholas, John Hawford <hi>Eſq;</hi> Mr. Thomas Baſnet, Robert Beke <hi>Eſq;</hi> VVilliam Thornton, Matthew Bridges, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Mr. VVilliam Cliff, George VVills <hi>Gent.</hi> John Brook <hi>of</hi> Strat<g ref="char:EOLhyphen"/>ford <hi>upon</hi> Avon, Francis Smith <hi>of</hi> Cleyton <hi>Gent.</hi> Thomas Fiſh.</p>
+            </div>
+            <div type="county">
+               <head>VVorceſter.</head>
+               <p>
+                  <hi>For the county of</hi> VVorceſter, John VVilde <hi>Serjeant at Law, Sir</hi> Thomas Rous, Gervaſe Buck <hi>in the Colledge Eſq;</hi> Nicholas Lechmer <hi>of</hi> Hundley <hi>Eſq;</hi> William Collyn <hi>of the Colledge, Gent.</hi> Francis Frank <hi>of</hi> Worceſter <hi>Gent.</hi> Robert Stirrup <hi>of</hi> Worceſter <hi>Gent.</hi> Henry Philips <hi>of</hi> Wor<g ref="char:EOLhyphen"/>ceſter <hi>Gent.</hi> Nicholas Blick <hi>of</hi> Bramſgrove <hi>Gent.</hi> Thomas Young <hi>of</hi> Handley <hi>Gent.</hi> John Butler <hi>of</hi> Bramſgrove <hi>Gent.</hi> John Hayler <hi>of</hi> Bewdley <hi>Gent.</hi> John Bridges <hi>Eſq;</hi> Edward Elvins <hi>Alderman of</hi> Worceſter, Thomas Foly, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Barker, John Cor<g ref="char:EOLhyphen"/>bet, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Pit <hi>of</hi> Keen, Henry Broad, Talbot Badger, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Thomas Martin <hi>Gent.</hi> Edmond Giles <hi>the yonger,</hi> Thomas Roberts <hi>Gent.</hi> John James <hi>Eſq;</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Wilts.</head>
+               <p>
+                  <hi>For the county of</hi> Wilts, <hi>Sir</hi> Anthony-Aſhley Cooper <hi>Baronet;</hi> Thomas Grove <hi>Eſq;</hi> George Cooper <hi>Eſq;</hi> George Howe <hi>of</hi> Cole-Barwick <hi>Eſq;</hi> William Coles <hi>of</hi> Downton, Gabriel Martin, Edward
+<pb n="611" facs="tcp:169232:10"/> Mitchel <hi>of</hi> Chittern, William Sadler, William Shute, <hi>
+                     <abbr>Eſqs</abbr> Mr.</hi> William Bliſſet, <hi>Mr.</hi> Humphrey Ditton <hi>and Mr.</hi> Richard Phelps <hi>of</hi> Salisbury, <hi>Mr.</hi> Tho: Hunt <hi>and Mr.</hi> Tho: Baily <hi>of</hi> Marlborough, <hi>Mr.</hi> William Temple <hi>of</hi> Biſhopſtrow, <hi>Mr.</hi> Mid<g ref="char:EOLhyphen"/>dlecot <hi>of</hi> Warminſter, <hi>Sir</hi> John Evelin, Alexan<g ref="char:EOLhyphen"/>der Popham <hi>Eſq;</hi> Alexander Thiſlethwait, <hi>Mr.</hi> Jamts Hely, William Ludlow <hi>of</hi> Claringdon, <hi>Eſquires.</hi>
+               </p>
+            </div>
+            <div type="counties">
+               <head>Angleſey; Carnarvan, Montgomery, Den<g ref="char:EOLhyphen"/>bigh, Merioneth and Flint.</head>
+               <p>
+                  <hi>For the counties of</hi> Angleſey, Carnarvan, Montgomery, Denbigh, Merioneth <hi>and</hi> Flint, Hum<g ref="char:EOLhyphen"/>phrey Mackworth <hi>Eſq;</hi> Hugh Price, Evan Lloid, Robert Griffiths, Richard Price, Thomas Lloyd, Lewis Price <hi>of the county of</hi> Montgomery, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> George Twiſleton, John Carter, Thomas Ball, Garrald Barbar <hi>of the county of</hi> Denbigh, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Ralph Weld <hi>Gent.</hi> John Kinaſton <hi>Eſq;</hi> Edward Thomas <hi>Gent.</hi> William Speed <hi>Gent.</hi> Samuel Swanwick <hi>Gent.</hi> John Jones <hi>Eſq; of the ſame county,</hi> Thomas Dymock, Andrew Ellis, Luke Lloid <hi>of the county of</hi> Flint, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr> Tho<g ref="char:EOLhyphen"/>mas Maſon, <hi>Eſq;</hi> Daniel Matthews <hi>Gent.</hi> John Maddocks <hi>of</hi> Hanmer <hi>Pariſh in the ſame coun<g ref="char:EOLhyphen"/>ty Gent.</hi>
+               </p>
+            </div>
+            <div type="counties">
+               <head>Pembrook, Cardigan, Glamorgan, Car<g ref="char:EOLhyphen"/>marthen, Brecon and Radnor.</head>
+               <p>For the counties of <hi>Pembrook, Cardigan, Gla<g ref="char:EOLhyphen"/>morgan, Carmarthen, Brecon</hi> and <hi>Radnor;</hi> The Lord <hi>Henry Cromwel, Philip</hi> Earl of <hi>Pembrook</hi> and <hi>Montgomery, Philip</hi> Lord Viſ. <hi>Liſle, Philip Jones</hi> Eſq; <hi>Buſſey Manſel, Edw: Thomas, Edward
+<pb n="612" facs="tcp:169232:11"/> Prichard, John Price, Rowland Dawkins, Edward Stradling, John Nicholas</hi> Governor of <hi>Chepſtow, John Herbert, John Galer, Evan Lewis, John Bowen, Henry Morgan, Robert Thomas, Jenkin Franklen, Rice Powel, John Daniel,</hi> Sir <hi>Eraſmus Philips,</hi> Sir <hi>Hugh Owens, James Philips, Arthur Owen, Sampſon Lort, Jenkin Lloid, James Lew<g ref="char:EOLhyphen"/>is</hi> Eſquire; <hi>John Lloid</hi> de <hi>Vairdreff, Richard Brewn, Hector Philips, Rowland Gethings, Abel Griffiths, Griffith Bowen, David Morgan, Edward Games, Silvanus Taylor,</hi> 
+                  <abbr>Eſqs</abbr> 
+                  <hi>John Walſam, John Williams, John Dancy, William Jones, Wil<g ref="char:EOLhyphen"/>liam Watkins, Thomas Watkins, David Morgan,</hi> Gent.</p>
+               <p>And the ſaid Commiſsioners for the reſpe<g ref="char:EOLhyphen"/>ctive counties aforeſaid, or any five or more of them, are hereby authorized and impowred to call before them or any five of them, any pub<g ref="char:EOLhyphen"/>lique Preacher, Lecturer, or other perſons formerly called Parſons, Vicars or Curats, ſetled, or which hereafter ſhall be ſetled in any Benefice, commonly called, A Benefice with cure of Souls, or publique Lecture, having any ſtipend or ſalary legally annexed, or be<g ref="char:EOLhyphen"/>longing thereunto; and all and every School-Maſters, who are or ſhall be ignorant, ſcan<g ref="char:EOLhyphen"/>dalous, inſufficient, or negligent in their ſe<g ref="char:EOLhyphen"/>veral and reſpective places: And ſhall and may receive all Articles or Charges which ſhall be exhibited againſt them for ignorance, inſufficiency, ſcandal in their lives and con<g ref="char:EOLhyphen"/>verſations, or negligence in their reſpective callings and places, and proceed to examina<g ref="char:EOLhyphen"/>tion and determination of ſuch offences, ac<g ref="char:EOLhyphen"/>cording to the Rules and Directions hereaf<g ref="char:EOLhyphen"/>ter
+<pb n="613" facs="tcp:169232:11"/> ſpecified, <hi>viz.</hi> ſuch Miniſters and School-Maſters ſhall be deemed and accompted ſcan<g ref="char:EOLhyphen"/>dalous in their Lives and Converſations, as ſhall be proved guilty of holding or maintain<g ref="char:EOLhyphen"/>ing ſuch Blaſphemous and Atheiſtical opini<g ref="char:EOLhyphen"/>ons as are puniſhable by an Act; entituled, An Act againſt ſeveral Atheiſtical Blaſphe<g ref="char:EOLhyphen"/>mous and execrable opinions, deregatory to the Honor of God, and deſtructive to humane Society, or guilty of profane curſing or ſwear<g ref="char:EOLhyphen"/>ing; perjury, ſubornation of Perjury; ſuch as ſhall hold, teach, or maintain any of thoſe Po<g ref="char:EOLhyphen"/>piſh opinions, required in the Oath of Abju<g ref="char:EOLhyphen"/>ration (mentioned in an Ordinance of Parla<g ref="char:EOLhyphen"/>ment of the 19. of <hi>Auguſt,</hi> 1643) to be abjured; or be guilty of Adultery, Fornication, Drun<g ref="char:EOLhyphen"/>kenneſs; common haunting of Taverns, or Ale-houſes, frequent quarrelling or fighting, frequent playing at Cards or Dice, Profaning of the Sabbath day, and ſuch as do or ſhall allow the ſame in their Families, or counte<g ref="char:EOLhyphen"/>nance the ſame in their Pariſhioners or Sho<g ref="char:EOLhyphen"/>lars; ſuch as have publiquely and frequently read or uſed the Common-prayer Book ſince the firſt of <hi>January</hi> laſt, or ſhal at any time here<g ref="char:EOLhyphen"/>after do the ſame; ſuch as do publiquely and profanely ſcoff at, or revile the ſtrict profeſsi<g ref="char:EOLhyphen"/>on or Profeſſors of Religion or Godlineſs, or do incourage and countenance by word or pra<g ref="char:EOLhyphen"/>ctiſe any <hi>Whitſon-Ales, Wakes, Morris-Dances, May-poles, Stage-plays,</hi> or ſuch like Licentious practiſes, by which men are incouraged in a looſe and profane Converſation; ſuch as have declared, or ſhall declare by Writing, Preach<g ref="char:EOLhyphen"/>ing, or otherwiſe publiſhing their diſ-affection
+<pb n="614" facs="tcp:169232:12"/> to the preſent Government; ſuch Miniſters ſhall be accounted negligent, as omit the pub<g ref="char:EOLhyphen"/>lique Exerciſes of Preaching and Praying up<g ref="char:EOLhyphen"/>on the Lords-day (not being hindred by neceſſa<g ref="char:EOLhyphen"/>ry abſence or infirmity of body) or that are or ſhall be non-Reſident; ſuch School-maſters ſhall be accompted negligent as abſent them<g ref="char:EOLhyphen"/>ſelves from their Schools, and do wilfully ne<g ref="char:EOLhyphen"/>glect their duties in teaching their Scholars.</p>
+               <p>And ſuch Miniſter and School-maſter ſhall be accounted ignorant and inſufficient, as ſhall be ſo declared and adjudged by the Commiſsi<g ref="char:EOLhyphen"/>oners in every County, or any five of them together, with any five or more of the Mini<g ref="char:EOLhyphen"/>ſters hereafter nominated in this preſent Or<g ref="char:EOLhyphen"/>dinance, to be aſsiſtant to the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Bedford.</head>
+               <p>
+                  <hi>For the County of</hi> Bedford, Francis Walſall <hi>Dr. of Divinity, Mr.</hi> Linford <hi>of</hi> Sutton, <hi>Mr.</hi> Thomas Aspine, <hi>Mr.</hi> Iſaac Bedford, <hi>Mr.</hi> Heward <hi>of</hi> Hawnes, <hi>Mr.</hi> John Cole <hi>of</hi> Clophill, <hi>Mr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Lawry <hi>of</hi> Bletſo.</p>
+            </div>
+            <div type="county">
+               <head>Berks.</head>
+               <p>
+                  <hi>For the County of</hi> Berks, <hi>Mr.</hi> Fowler <hi>of</hi> Red<g ref="char:EOLhyphen"/>ding, <hi>Mr,</hi> Woodbridge <hi>of</hi> Newberry, <hi>Mr.</hi> James Baron <hi>of</hi> Hendred, <hi>Mr.</hi> Johnſon <hi>of</hi> Lockin, <hi>Mr.</hi> Hughes of Hinton, <hi>Mr.</hi> Tickle <hi>of</hi> Abbington, <hi>Mr.</hi> Stephens <hi>of</hi> Appleton, <hi>Mr.</hi> Lee <hi>of</hi> Brightwell, <hi>Mr.</hi> Bateman <hi>of</hi> Ockingham.</p>
+            </div>
+            <div type="county">
+               <pb n="615" facs="tcp:169232:12"/>
+               <head>Bucks.</head>
+               <p>
+                  <hi>For the County of</hi> Bucks, Mr. Ellis, Mr. But<g ref="char:EOLhyphen"/>ler, Mr. Dobſon, Mr. Luffe, Mr. Perkins, Mr. Gladman, Mr. Bennet, Mr. Beverly <hi>of</hi> Quainton, Mr. Marriot.</p>
+            </div>
+            <div type="counties">
+               <head>Cambridge and Huntington, with the Iſle of Ely.</head>
+               <p>
+                  <hi>For the Counties of</hi> Cambridge <hi>and</hi> Hunting<g ref="char:EOLhyphen"/>ton, <hi>with the</hi> Iſle <hi>of</hi> Ely, <hi>Dr.</hi> Samuel Bolton, Mr. <hi>of</hi> Chriſt <hi>Colledge in</hi> Cambridge, <hi>Dr.</hi> Lazarus Seaman, Mr. <hi>of</hi> Peterhouſe, Mr. Robert Weſt, Mr. Coldwell <hi>of</hi> Wisbich, Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Sheldrake <hi>of</hi> Levingſton, <hi>Dr.</hi> Warner <hi>of</hi> Balſam, Mr. Jephcot <hi>of</hi> Sofham, Mr. John Nye <hi>of</hi> Cottenham, Mr. Brad<g ref="char:EOLhyphen"/>ſhaw <hi>of</hi> Willingham, Mr. Hayes <hi>of</hi> Papworth, Mr. Lee <hi>of</hi> Outwell, Mr. Wells of St. Ives, Mr. Iſham <hi>of</hi> Hammerton, Mr. Meryll <hi>of</hi> Kimbolton, Mr. Vinter <hi>of</hi> Keyſton, Mr. Williams <hi>of</hi> Pidley, Mr. Taylor <hi>of</hi> Huntington, Mr. Halſey of Hurſt, Mr. Wallis <hi>of</hi> Broughton, Mr. Cooper <hi>of</hi> Elton, Mr. Spencer <hi>Miniſter of</hi> Shelton.</p>
+            </div>
+            <div type="county">
+               <head>Cheſter.</head>
+               <p>
+                  <hi>For the County of</hi> Cheſter, Mr. Thomas Lang<g ref="char:EOLhyphen"/>ley <hi>of</hi> Heldſtretnam, Mr. Samuel Langley, Mr. Na<g ref="char:EOLhyphen"/>thaniel Lancaſter <hi>of</hi> Tarperley, Mr. Samuel Eaton, Mr. James Marbury, Mr. William Manwairing, Mr. Newcomb <hi>of</hi> Gawſworth, Mr. Pemberton, Mr. Peer<g ref="char:EOLhyphen"/>tree, Mr. Glendal <hi>of</hi> Cheſter, Mr. Thomas Upſon, Mr. Sillito <hi>of</hi> Laughton.</p>
+            </div>
+            <div type="county">
+               <head>Cornwal.</head>
+               <p>
+                  <hi>For the County of</hi> Cornwal, Mr. Jaſper Hicks <hi>of</hi> Lanrake, Mr. Tinkham of Truro, Mr. Thomas
+<pb n="616" facs="tcp:169232:13"/> Peters <hi>of</hi> Milor, Mr. Caſwel <hi>of</hi> St. Germans, Mr. Toms <hi>of</hi> St. Stephens, Mr. John Wills, Mr. Thomas Travers, Mr. Robert Jagoe, Mr. Welſteed of St. Ives, Mr. George Highes <hi>of</hi> Plimouth, <hi>maſter</hi> Del<g ref="char:EOLhyphen"/>bridge, <hi>maſter</hi> Mawl <hi>of</hi> Foy, Mr. Powell <hi>of</hi> Cle<g ref="char:EOLhyphen"/>ments, <hi>maſter</hi> Martin <hi>of</hi> Plimouth, Mr. Hancock.</p>
+            </div>
+            <div type="counties">
+               <head>Cumberland, Durham, Northumber<g ref="char:EOLhyphen"/>land, and Weſtmerland.</head>
+               <p>
+                  <hi>For the Counties of</hi> Cumberland, Durham, Northumberland, and Weſtmerland, <hi>maſter</hi> Wells <hi>of</hi> Newcaſtle, <hi>maſter</hi> Hamond <hi>of</hi> Newcaſtle, <hi>ma<g ref="char:EOLhyphen"/>ſter</hi> Prideaux <hi>of</hi> Newcaſtle, <hi>maſter</hi> Theophilus Polwheele, <hi>maſter</hi> Richard Gilpin, <hi>maſter</hi> Mathi<g ref="char:EOLhyphen"/>as Simpſon, <hi>maſter</hi> Comfort Star, <hi>maſter</hi> Roger Baldwin, <hi>maſter</hi> Thomas Troyt, <hi>maſter</hi> George Larkham, <hi>maſter</hi> William Hepkins, <hi>maſter</hi> Herris, <hi>maſter</hi> Halſey, <hi>maſter</hi> Lane, <hi>maſter</hi> Lapthorne, <hi>maſter</hi> Truryn, <hi>maſter</hi> Smith <hi>of</hi> Kirkby-Langſdale, <hi>maſter</hi> Walker <hi>of</hi> Kendall.</p>
+            </div>
+            <div type="counties">
+               <head>Derby and Nottingham.</head>
+               <p>
+                  <hi>For the counties of</hi> Derby <hi>and</hi> Nottingham, <hi>maſter</hi> John Rowlinſon <hi>Senior, maſter</hi> Emanuel Barne, <hi>maſter</hi> Joſeph Swetnam, <hi>maſter</hi> Walter Taylor, <hi>Mr.</hi> Peter Watkinſon, <hi>Mr.</hi> Edmund Bar<g ref="char:EOLhyphen"/>ton, <hi>Mr.</hi> John Baylſton, <hi>Mr.</hi> John Hieron, <hi>Mr.</hi> Thomas Bakewell, <hi>Mr.</hi> Thomas Shelmardine, <hi>Mr.</hi> Frith <hi>of</hi> Mansfield, <hi>Mr.</hi> Samuel Coats <hi>of</hi> Weſtbridg<g ref="char:EOLhyphen"/>ford, <hi>Mr.</hi> Laurence Palmer <hi>of</hi> Gedling, <hi>Mr.</hi> Vere Harcourt <hi>of</hi> Plumtree, <hi>Mr.</hi> Cook <hi>of</hi> Sibthorp.</p>
+            </div>
+            <div type="county">
+               <pb n="613" facs="tcp:169232:13"/>
+               <head>Devon and City of Exceſter.</head>
+               <p>
+                  <hi>For the County of</hi> Devon <hi>and city of</hi> Exce<g ref="char:EOLhyphen"/>ſter, <hi>Mr.</hi> George Hughes <hi>of</hi> Plymouth, <hi>Mr.</hi> Far<g ref="char:EOLhyphen"/>dinando Nicols, <hi>Mr.</hi> Ford <hi>of</hi> Exceſter, <hi>Mr.</hi> An<g ref="char:EOLhyphen"/>thony Hartford, <hi>Mr.</hi> Sanders <hi>of</hi> Hoſlworthy, <hi>Mr.</hi> Bartlet <hi>of</hi> Exceſter, <hi>Mr.</hi> Yeo <hi>of</hi> Newton, <hi>Mr.</hi> Bartlet <hi>of</hi> Beddiford, <hi>Mr.</hi> Herring <hi>of</hi> Maſton, <hi>Mr.</hi> John Rowe, <hi>Mr.</hi> Jonathan Hanmore <hi>of</hi> Barnſtable, <hi>Mr.</hi> Francis Sourton <hi>of</hi> Honyton, <hi>Mr.</hi> William Trevethick, <hi>Mr.</hi> Lewis Stickley <hi>of</hi> Exce<g ref="char:EOLhyphen"/>ſter, <hi>Mr.</hi> John Chiſhul.</p>
+            </div>
+            <div type="county">
+               <head>Dorſet and Pool.</head>
+               <p>
+                  <hi>For the County of</hi> Dorſet <hi>and</hi> Pool, <hi>Mr.</hi> William Ben, <hi>Mr.</hi> Stanley Gowre, <hi>Mr.</hi> William Allen, <hi>Mr.</hi> John Hardy, <hi>Mr.</hi> Walter Burges, <hi>Mr.</hi> John Trortle, <hi>Mr.</hi> John Eaton, <hi>Mr.</hi> Conſtance Jeſſop, <hi>Mr.</hi> John Loder, <hi>Mr.</hi> Thomas Chaplin, <hi>Mr.</hi> George Thorn, <hi>Mr.</hi> William Huſſie, <hi>Mr.</hi> Jeremy Turner, <hi>Mr.</hi> Wats <hi>of</hi> Morecreechel.</p>
+            </div>
+            <div type="county">
+               <head>York, and Kingſton upon Hull.</head>
+               <p>For the Eaſt-Riding of the county of <hi>York,</hi> and <hi>Kingſton</hi> upon <hi>Hull,</hi> Mr. <hi>Luddington</hi> of <hi>Cowſcots,</hi> Mr. <hi>Aty</hi> of <hi>Agnes-Burton,</hi> Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Hyde</hi> of <hi>Wighton,</hi> Mr. <hi>Peter Clerk,</hi> Mr. <hi>Robert Johnſon,</hi> Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Micklethwait,</hi> Mr. <hi>Hame</hi> of <hi>Flamborough,</hi> Mr. <hi>Fowler</hi> of <hi>Thwing,</hi> Mr. <hi>Garthwait</hi> of <hi>Carnaby,</hi> Mr. <hi>Crozer</hi> of <hi>Bridlington.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <pb n="614" facs="tcp:169232:14"/>
+               <head>York City.</head>
+               <p>For the Weſt-Riding and City of <hi>York,</hi> Mr. <hi>Fiſher</hi> of <hi>Sheafield,</hi> Mr. <hi>Boles</hi> of <hi>York,</hi> Mr. <hi>More-houſe</hi> of <hi>Caſtleford,</hi> Mr. <hi>Smalwood,</hi> Mr. <hi>Mar<g ref="char:EOLhyphen"/>ſhal</hi> of <hi>Wood-church,</hi> Mr. <hi>Roots</hi> of <hi>Hallifax,</hi> Mr. <hi>Herring</hi> of <hi>York,</hi> Mr. <hi>William Stiles</hi> of <hi>Leeds,</hi> Mr. <hi>Calvert.</hi>
+               </p>
+               <p>For the North-Riding, Mr. <hi>Philip Nesbet,</hi> Mr. <hi>Mannors,</hi> Mr. <hi>Dove</hi> of <hi>Appleton,</hi> Mr. <hi>Peter Clerk,</hi> Mr. <hi>Calvert,</hi> Mr. <hi>Boles,</hi> Mr. <hi>Herring.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Eſſex.</head>
+               <p>
+                  <hi>For the County of</hi> Eſſex, <hi>Mr.</hi> Stalham <hi>of</hi> Tar<g ref="char:EOLhyphen"/>ling, <hi>Mr.</hi> Willis <hi>of</hi> Ingerſton, <hi>Mr.</hi> Sams <hi>of</hi> Cog<g ref="char:EOLhyphen"/>ſhal, <hi>Mr.</hi> Sparrow <hi>of</hi> Halſted, <hi>Mr.</hi> Glover <hi>of</hi> Fin<g ref="char:EOLhyphen"/>chingfield, <hi>Mr.</hi> Peck <hi>of</hi> Pritlewel, <hi>Mr.</hi> Warren <hi>of</hi> Hatfield-Broadoak, <hi>Mr.</hi> Martin Holbech <hi>of</hi> Fel<g ref="char:EOLhyphen"/>ſtead, <hi>Mr.</hi> Matthew Newcomen <hi>of</hi> Dedham.</p>
+            </div>
+            <div type="county">
+               <head>Glouceſter.</head>
+               <p>For the County of <hi>Glouceſter,</hi> and County of the City of <hi>Glouceſter,</hi> Mr. <hi>Alexander Gregory</hi> of <hi>Cirenceſter,</hi> Mr. <hi>Giles Wortman,</hi> Mr. <hi>William Mew</hi> of <hi>Eſſington,</hi> Mr. <hi>Anthony Palmer</hi> of <hi>Bor<g ref="char:EOLhyphen"/>ton</hi> of the Water, Mr. <hi>Helm</hi> of <hi>Winchcomb,</hi> Mr. <hi>William Tray</hi> of <hi>Odington,</hi> Mr. <hi>William Beal</hi> of <hi>Stow</hi> of the Would, Mr. <hi>William Fowler</hi> of <hi>Walſterley.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <pb n="615" facs="tcp:169232:14"/>
+               <head>Hereford.</head>
+               <p>For the County of <hi>Hereford,</hi> Mr. <hi>Woodriff,</hi> Mr. <hi>Lowe,</hi> Mr. <hi>Boyer,</hi> Mr. <hi>Briton,</hi> Mr. <hi>Prim<g ref="char:EOLhyphen"/>roſe,</hi> Mr. <hi>Woodward</hi> of <hi>Rickards</hi> Caſtle, Mr. <hi>John Beal,</hi> Mr. <hi>Smith,</hi> Mr. <hi>Voyle.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Hertford.</head>
+               <p>
+                  <hi>For the county of</hi> Hertford, <hi>Mr.</hi> Philip Good<g ref="char:EOLhyphen"/>wyn, <hi>maſter</hi> John Warren, <hi>Dr.</hi> John Lightfoot <hi>of</hi> Munden-magna, <hi>maſter</hi> Samuel Tomlin, <hi>maſter</hi> Thomas Mocket, <hi>maſter</hi> Thomas Halſeter, <hi>maſter</hi> John Young, <hi>maſter</hi> Iſaac Bedford, <hi>maſter</hi> Natha<g ref="char:EOLhyphen"/>niel Eels, <hi>maſter</hi> Tutty, <hi>maſter</hi> Slater, <hi>maſter</hi> John Pointer, <hi>maſter</hi> Daniel Dyke, <hi>maſter</hi> Lee <hi>of</hi> Hatfield.</p>
+            </div>
+            <div type="county">
+               <head>Kent.</head>
+               <p>For the county of <hi>Kent,</hi> maſter <hi>John Davis</hi> of <hi>Dover,</hi> maſter <hi>Player,</hi> maſter <hi>Taylor</hi> and ma<g ref="char:EOLhyphen"/>ſter <hi>Durant</hi> of <hi>Canterbury,</hi> maſter <hi>French</hi> of <hi>Stroud,</hi> maſter <hi>Steed,</hi> maſter <hi>Samuel Selliard,</hi> maſter <hi>Crump,</hi> maſter <hi>Bright,</hi> maſter <hi>John Swan.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Lancaſter.</head>
+               <p>For the County of <hi>Lancaſter,</hi> maſter <hi>Herl,</hi> maſter <hi>Hollinworth,</hi> maſter <hi>Anger,</hi> maſter <hi>Her<g ref="char:EOLhyphen"/>rick,</hi> maſter <hi>Latham,</hi> maſter <hi>Thomas Johnſon,</hi> maſter <hi>Ambroſe,</hi> maſter <hi>Harriſon,</hi> maſter <hi>Gee,</hi> maſter <hi>Michael Briſcoe.</hi>
+               </p>
+            </div>
+            <div type="counties">
+               <pb n="616" facs="tcp:169232:15"/>
+               <head>Leiceſter and Rutland.</head>
+               <p>
+                  <hi>For the counties of</hi> Leiceſter <hi>and</hi> Rutland, <hi>Mr.</hi> Simon Peck, <hi>Mr.</hi> Thomas Doughtey, <hi>Mr.</hi> Thomas Laurey, <hi>Mr.</hi> Richard Pyke, <hi>Mr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Pits, <hi>Mr.</hi> Henry Peirce, <hi>Mr.</hi> John Yaxley, <hi>Mr.</hi> Nicholas Keſtyn, <hi>Mr.</hi> William Sheffield, <hi>Mr.</hi> Sa<g ref="char:EOLhyphen"/>muel Blackerby, <hi>Mr.</hi> Maurice Boheme, <hi>Mr.</hi> Bar<g ref="char:EOLhyphen"/>ry <hi>of</hi> Coſtmore, <hi>Mr.</hi> Beacham <hi>of</hi> Seaton, <hi>Mr.</hi> Rowel <hi>of</hi> Little-Caſterton, <hi>Mr.</hi> Johnſon <hi>of</hi> Tim<g ref="char:EOLhyphen"/>wel, <hi>Mr.</hi> Levit <hi>of</hi> Aſhwel, <hi>Mr.</hi> King <hi>of</hi> Oke<g ref="char:EOLhyphen"/>ham, <hi>Mr.</hi> Wells <hi>of</hi> Baroden.</p>
+            </div>
+            <div type="county">
+               <head>Lincoln.</head>
+               <p>For the County of <hi>Lincoln,</hi> Mr. <hi>Edward Reyner,</hi> Mr. <hi>Scortreth</hi> of <hi>Lincoln,</hi> Mr. <hi>Ander<g ref="char:EOLhyphen"/>ſon,</hi> Mr. <hi>Nayler</hi> of <hi>Boſton,</hi> Mr. <hi>Male</hi> of <hi>Faulk<g ref="char:EOLhyphen"/>ingham,</hi> Mr. <hi>Ram</hi> of <hi>Spaulding,</hi> Mr. <hi>Reynold</hi> of <hi>Heyting,</hi> Mr. <hi>Finch</hi> of <hi>Bellow,</hi> Mr. <hi>Hanſerd Knollis,</hi> Mr. <hi>Moreton</hi> of <hi>Billingborn</hi> and <hi>Hir<g ref="char:EOLhyphen"/>bling,</hi> Mr. <hi>Law</hi> of <hi>Wiberton,</hi> Mr. <hi>Angel</hi> of <hi>Grantham,</hi> Mr. <hi>Whiting,</hi> Mr. <hi>Northan</hi> of <hi>Har<g ref="char:EOLhyphen"/>laxton,</hi> Mr. <hi>Beck</hi> of <hi>Rippinghal,</hi> Mr. <hi>Brown</hi> of <hi>Stamford,</hi> Mr. <hi>William How</hi> of <hi>Gedney.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Middleſex, and City of Weſtminſter.</head>
+               <p>
+                  <hi>For the County of</hi> Middleſex, <hi>and the city of</hi> Weſtminſter, <hi>Mr.</hi> Robert Malthus, <hi>Mr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Perkins, <hi>Mr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Symmer, <hi>of</hi> Cheſwick, <hi>Mr.</hi> Iſaac Knight, <hi>Mr.</hi> Thomas Gilbert, <hi>Mr.</hi> Willis, <hi>Mr.</hi> Rolls <hi>of</hi> Thiſtleworth, <hi>Mr.</hi> Price <hi>of</hi> Stains, <hi>Mr.</hi> Kentiſh <hi>of</hi> Kattern, <hi>Mr.</hi> Williams <hi>of</hi> Wappin, <hi>Dr.</hi> Spurſtow <hi>of</hi> Hackney, <hi>Mr.</hi> John
+<pb n="617" facs="tcp:169232:15"/> Bond, <hi>Maſter of the</hi> Savoy, <hi>Mr.</hi> Sangar, <hi>Mr.</hi> Philip Ny, <hi>Mr.</hi> Obadiah Sedgwick, <hi>Mr.</hi> Bates <hi>of</hi> Dunſtans <hi>in the Weſt.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>London.</head>
+               <p>
+                  <hi>For the City of</hi> London, Lazarus Seaman <hi>Dr. of Divinity, Dr.</hi> Drake, <hi>Mr.</hi> Samuel Clerk, <hi>Mr.</hi> Matthew Barbar, <hi>Mr.</hi> Gouge <hi>of</hi> Sepulchres, <hi>Mr.</hi> Abraham Molin, Mr. Richard Vines, <hi>Mr.</hi> Griffith <hi>of the Charterhouſe, <hi>Mr.</hi>
+                  </hi> Jacomb, <hi>Mr.</hi> Sheffeild, <hi>Mr.</hi> Rutton, <hi>Mr.</hi> Bragg, <hi>Mr.</hi> Arthur Jackſon, <hi>Mr.</hi> John Bond, <hi>Mr.</hi> Sangar, <hi>Mr.</hi> Philip Ny, <hi>Mr.</hi> Obadiah Sedg<g ref="char:EOLhyphen"/>wick, <hi>Mr.</hi> Joſeph Caril, <hi>Mr.</hi> Cooper.</p>
+            </div>
+            <div type="county">
+               <head>Monmouth.</head>
+               <p>
+                  <hi>For the County of</hi> Monmouth, <hi>Mr.</hi> Walter Craddock, <hi>Mr.</hi> Henry Walter, <hi>Mr.</hi> George Robinſon, <hi>Mr.</hi> Roger Charnock, Mr. Francis Syms, <hi>Mr.</hi> George White, <hi>Mr.</hi> Thomas Barns, Mr. Abbatts.</p>
+            </div>
+            <div type="county">
+               <head>Norfolk.</head>
+               <p>
+                  <hi>For the County of</hi> Norfolk, Mr. VVilliam Bridges, Mr. John Brinſley <hi>of</hi> Yarmouth, Mr. John Martin <hi>of</hi> Edgfield; Mr. John Money <hi>of</hi> VVymand<g ref="char:EOLhyphen"/>ham, Mr. Timothy Armitage <hi>of</hi> Norwich, Mr. Charles Franck <hi>of</hi> Thetford, Mr. Nathaniel Brew<g ref="char:EOLhyphen"/>ſter of Alby, Mr. Edmund Broom of Southrep, Mr. Breniter, Mr. Samuel Smith of Siſtern, <hi>Mr.</hi> Richard VVells of Takenham, Mr. Harmer of Saxingham, Mr. Iſrael Shipdem of Swafham, Mr. Thomas Thor<g ref="char:EOLhyphen"/>rowgood, Mr. Johnſon of Lynn, Mr. Edward Cor<g ref="char:EOLhyphen"/>bet, <hi>Maſter</hi> Collings of Norwich, <hi>Mr.</hi> Peck of
+<pb n="618" facs="tcp:169232:16"/> Hingham, Mr. Hogan <hi>of</hi> Lyn, Mr. John Newton of Great Dunham, Mr. William Hall <hi>of</hi> Hevering<g ref="char:EOLhyphen"/>ham.</p>
+            </div>
+            <div type="county">
+               <head>Northampton.</head>
+               <p>
+                  <hi>For the County of</hi> Northampton, Mr. Gyfford, <hi>of</hi> Gayton, Mr. Daniel Rogers <hi>of</hi> Wotten, Mr. Ball <hi>of</hi> Northampton, Mr. Pearn <hi>of</hi> Wilby, Mr. Floid <hi>of</hi> Woodford, Mr. Resbury <hi>of</hi> Owndle, Mr. Caw<g ref="char:EOLhyphen"/>thorn, Mr. Wilſon <hi>of</hi> Peterburgh, Mr. William Hod<g ref="char:EOLhyphen"/>ges <hi>of</hi> Tickmarſh, Mr. Stephen Fowler <hi>of</hi> Creek, Mr. Timothy Dodd.</p>
+            </div>
+            <div type="county">
+               <head>Oxen.</head>
+               <p>
+                  <hi>For the County of</hi> Oxen, John Owen, Thomas Goodwin, <hi>Doctors of Divinity,</hi> Mr. Thankful Owen, Mr. Samuel Wells, <hi>Miniſter of</hi> Banbury, Mr. John Taylor, <hi>Miniſter of</hi> Broughton, Chriſto<g ref="char:EOLhyphen"/>pher Rogers, <hi>Doctor of Divinity,</hi> Mr. Ambroſe Upton, Mr. Peter French, <hi>Prebends of</hi> Chriſt Church, <hi>Doctor</hi> Wilkinſon <hi>of</hi> Chriſt Church, <hi>Doctor</hi> Stanton, <hi>Warden of</hi> Corpus Chriſti, <hi>Dr.</hi> Robert Harris, <hi>Maſter of</hi> Trinity <hi>Colledge,</hi> Mr. Ralph Button, Mr. Brice <hi>of</hi> Henley, Mr. Owen <hi>of</hi> Remnam, Mr. Francis Howel, Mr. Henry Corniſh.</p>
+            </div>
+            <div type="county">
+               <head>Salop.</head>
+               <p>
+                  <hi>For the County of</hi> Salop, Mr. Thomas Paget, Mr. Francis Talents, Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Heath, Mr. James Smith, Mr. Samuel Smith, Mr. Thomas Gilbert, Mr. Francis Boughey, Mr. Thomas Porter, Mr. Samuel Hilderſham, <hi>maſter</hi> Andrew Pairſons, <hi>maſter</hi> Samuel Campion, <hi>Maſter</hi> Rowland
+<pb n="619" facs="tcp:169232:16"/> Nevet, <hi>Mr.</hi> Samuel Bartlet, Mr. George Bartlet, Mr. John Sadler, Mr. Frayſel, Mr. Bryan, Mr. Wright <hi>of</hi> Preſton <hi>in the</hi> Wilmores, Mr. Francis Wright, Mr. George Lawſon <hi>of the</hi> Moor.</p>
+            </div>
+            <div type="county">
+               <head>Stafford.</head>
+               <p>
+                  <hi>For the County of</hi> Stafford, Mr. Burdel <hi>Mi<g ref="char:EOLhyphen"/>niſter of</hi> Walſhal, Mr. Burgeſs <hi>Miniſter of</hi> Sut<g ref="char:EOLhyphen"/>ton-Cofield <hi>in</hi> Warwickſhire, Mr. Butler <hi>Miniſter of</hi> Leichfield, <hi>Mr.</hi> Blake <hi>Miniſter of</hi> Tamworth, Mr. John Greenſmith <hi>Miniſter of</hi> Colwich, Mr. Machyn, Mr. Cleyton <hi>Miniſter of</hi> Wolverham<g ref="char:EOLhyphen"/>pton, Mr. Sharp <hi>Miniſter of</hi> Burton, Mr. Sound <hi>of</hi> Newcaſtle <hi>under</hi> Line, Mr. Not <hi>of</hi> Sheriffhales, Mr. Taylor.</p>
+            </div>
+            <div type="county">
+               <head>Somerſet.</head>
+               <p>
+                  <hi>For the County of</hi> Somerſet <hi>and City of</hi> Briſtol, Mr. George Newton <hi>of</hi> Taunton, Mr. John Moor <hi>of</hi> Aller, Mr. John Bennet <hi>of</hi> Southpether<g ref="char:EOLhyphen"/>ton, Mr. William Thomas <hi>of</hi> Ubley, Mr. Francis Roberts <hi>of</hi> VVrington, Mr. Richard Fairclough <hi>of</hi> Mells, Mr. Richard Allen <hi>of</hi> Dichet, Mr. Richard Allen <hi>of</hi> Batcomb, Mr. Thomas Lee <hi>of</hi> Chard, Mr. William Ball, Mr. Elford <hi>of</hi> VVeſtmunckton, Mr. Stubs <hi>of</hi> VVells, Mr. John Deveniſh <hi>of</hi> VVe<g ref="char:EOLhyphen"/>ſtonzoiland, Mr. Parker <hi>of</hi> Bruton, Mr. Bat <hi>of</hi> Creech, Mr. Croſs <hi>of</hi> Chew, Mr. Ralph Farmer, Mr. Knowls, Mr. Haſſard.</p>
+            </div>
+            <div type="county">
+               <pb n="620" facs="tcp:169232:17"/>
+               <head>Southampton.</head>
+               <p>
+                  <hi>For the County of</hi> Southampton, <hi>and Town and County</hi> of Southampton, <hi>Mr.</hi> Whitfeild, <hi>Mr.</hi> James Terry, <hi>Mr.</hi> Henry Bartlet, <hi>Mr.</hi> Symonds <hi>of</hi> Southweek, <hi>Mr.</hi> Awdley <hi>of</hi> Clanfield, <hi>Mr.</hi> Cox <hi>of</hi> Biſhops-ſtoak, <hi>Mr.</hi> Robert Webb, <hi>Mr.</hi> Merriet <hi>of</hi> Cliedſden, <hi>Mr.</hi> Downs, <hi>Mr.</hi> Nathaniel Robinſon, <hi>Mr.</hi> Robert Dingley, <hi>Mr.</hi> Edward Buc<g ref="char:EOLhyphen"/>kler, <hi>Mr.</hi> John Martin, <hi>Mr.</hi> Robert Tuchyn, <hi>Mr.</hi> Barns, <hi>Mr.</hi> Sparks, <hi>Mr.</hi> Langley <hi>of</hi> Titherly.</p>
+            </div>
+            <div type="county">
+               <head>Suffolk.</head>
+               <p>For the County of <hi>Suffolk,</hi> Mr. <hi>Phillips</hi> of <hi>Wrentham,</hi> Mr. <hi>Marſhall</hi> of <hi>Ipſwich,</hi> Mr. <hi>Ward</hi> of <hi>Ipſwich,</hi> Mr. <hi>Hudſon</hi> of <hi>Capel,</hi> Mr. <hi>Mot</hi> of <hi>Stoke next Neyland,</hi> Mr. <hi>Brunning</hi> of <hi>Seymore,</hi> Mr. <hi>Gurnall</hi> of <hi>Lavenham,</hi> Mr. <hi>Faircloth</hi> of <hi>Ket<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Gibbons</hi> of <hi>Bury,</hi> Mr. <hi>Burrel,</hi> Mr. <hi>Cook</hi> of <hi>Glempsford.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Surry.</head>
+               <p>
+                  <hi>For the countie of</hi> Surry, <hi>Mr.</hi> Richard Bifield, <hi>Mr.</hi> Rayner <hi>of</hi> Eggham, <hi>Mr.</hi> George Farrold, <hi>Mr.</hi> Gery, <hi>Mr.</hi> John Arthur <hi>of</hi> Clapham, <hi>Dr.</hi> Temple <hi>of</hi> Batterſea, <hi>Mr.</hi> Parks <hi>of</hi> Morelack, <hi>Mr.</hi> Roberts, <hi>Mr.</hi> Wright <hi>of</hi> Charlwood, <hi>Mr.</hi> Noel <hi>of</hi> Ockley, <hi>Mr.</hi> Briſco, <hi>Mr.</hi> Plot, <hi>Mr.</hi> Peter Sterry.</p>
+            </div>
+            <div type="county">
+               <pb n="621" facs="tcp:169232:17"/>
+               <head>Suſſex.</head>
+               <p>For the County of <hi>Suſſex,</hi> Doctor <hi>Chenel</hi> of <hi>Petworth,</hi> Mr. <hi>Anthony Hilton</hi> of <hi>Billingſ<g ref="char:EOLhyphen"/>worth,</hi> Mr. <hi>William Speed,</hi> Mr. <hi>Cuſley</hi> of <hi>Arun<g ref="char:EOLhyphen"/>del,</hi> Mr. <hi>Pickering,</hi> Mr. <hi>Maynard</hi> of <hi>Mayfield,</hi> Mr. <hi>Vinter,</hi> Mr. <hi>Hawkſworth,</hi> Mr. <hi>Smith,</hi> Mr. <hi>Stafford,</hi> Mr. <hi>Chatfield</hi> of <hi>Horſham,</hi> Mr. <hi>Simons,</hi> Mr. <hi>Osborn,</hi> Mr. <hi>Corbet</hi> of <hi>Chicheſter,</hi> Mr. <hi>Dorrand.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>Warwick.</head>
+               <p>
+                  <hi>For the County of</hi> Warwick, <hi>Dr.</hi> Bryon, <hi>Dr.</hi> Grew <hi>of</hi> Coventry, <hi>Mr.</hi> Wills <hi>of</hi> Brumingham, <hi>Mr.</hi> Burges <hi>of</hi> Sutton Cofield, <hi>Mr.</hi> Blake <hi>of</hi> Tamworth, <hi>Mr.</hi> Walden, <hi>Mr.</hi> John Trap, <hi>Mr.</hi> Alexander Bean, <hi>Mr.</hi> Dooley <hi>of</hi> Alveſton, <hi>Mr.</hi> Butler <hi>and Mr.</hi> Richard Venner <hi>of</hi> Warwick.</p>
+            </div>
+            <div type="county">
+               <head>Worceſter.</head>
+               <p>
+                  <hi>For the County of</hi> Worceſter, <hi>Mr.</hi> Richard Baxter <hi>of</hi> Kidderminſter, <hi>Mr.</hi> Beniamin B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xter <hi>of</hi> Upton, <hi>Maſter</hi> Giles Collyer <hi>of</hi> Blockley, <hi>Mr.</hi> Hopkin <hi>of</hi> Eveſham, <hi>Maſter</hi> Bramage <hi>of</hi> Kem<g ref="char:EOLhyphen"/>ſey.</p>
+            </div>
+            <div type="county">
+               <head>VVilts.</head>
+               <p>
+                  <hi>For the County of</hi> Wilts, <hi>Dr.</hi> Chambers, <hi>Dr.</hi> Chaldcote, <hi>Mr.</hi> Adonyram Byfield <hi>of</hi> Collingborn, <hi>Mr.</hi> John Strickland, <hi>Mr.</hi> William Ayres <hi>of</hi> Salisbury, <hi>Mr.</hi> Profit, <hi>Mr.</hi> Hughes <hi>of</hi> Malbo<g ref="char:EOLhyphen"/>rough, <hi>Mr.</hi> Hunton <hi>of</hi> Weſtbury, <hi>Mr.</hi> Peter Inch <hi>of</hi> Dinchead, <hi>Mr.</hi> Hounſel <hi>of</hi> Chilton, <hi>Mr.</hi> Wil<g ref="char:EOLhyphen"/>liam
+<pb n="622" facs="tcp:169232:18"/> Clifford <hi>of</hi> Eaſt-Knoyl, <hi>Mr.</hi> John Priaulx <hi>of</hi> Fovant.</p>
+            </div>
+            <div type="counties">
+               <head>Angleſey, Carnarvan, Montgomery, Den<g ref="char:EOLhyphen"/>bigh, Merioneth and Flint.</head>
+               <p>
+                  <hi>For the counties of</hi> Angleſey, Carnarvan, Montgomery, Denbigh, Merioneth <hi>and</hi> Flint, <hi>Mr.</hi> Ambroſe Moſtin, <hi>Mr.</hi> Morgan Lloid, <hi>Mr.</hi> Edward Boles <hi>of</hi> Harding, <hi>Mr.</hi> Steel <hi>of</hi> Hanmer, <hi>Mr.</hi> Robert Fog, <hi>Mr.</hi> Orlando Fog, <hi>Dr.</hi> John Ellis, <hi>Mr.</hi> William Jones, <hi>Mr.</hi> Ellis Rowland, <hi>Mr.</hi> Matthew Jenkin, <hi>Mr.</hi> Jonathan Roberts, <hi>Mr.</hi> Stephen Lewis, <hi>Mr.</hi> James Quarrel, <hi>Mr.</hi> Row<g ref="char:EOLhyphen"/>land Nevet <hi>of</hi> Oſweſtree <hi>in the county of</hi> Salop, <hi>Mr.</hi> Samuel Barklay <hi>of</hi> Clungunis, <hi>Mr.</hi> George Lawſon <hi>of</hi> Moor <hi>in the county of</hi> Salop.</p>
+            </div>
+            <div type="counties">
+               <head>Pembrook, Cardygan, Glamorgan, Car<g ref="char:EOLhyphen"/>marthen, Brecon and Radnor.</head>
+               <p>For the counties of <hi>Pembrook, Cardigan, Glamorgan, Carmarthen, Brecon</hi> and <hi>Radnor,</hi> Mr. <hi>Walter Cradock,</hi> Mr. <hi>Bedwel,</hi> Mr. <hi>Ellis,</hi> Mr. <hi>Miles,</hi> Mr. <hi>Griffiths,</hi> Mr. <hi>Nichols,</hi> Mr. <hi>Samuel Jones,</hi> Mr. <hi>David Davies,</hi> Mr. <hi>Miller,</hi> Mr. <hi>French,</hi> Mr. <hi>Higgs,</hi> Mr. <hi>Love,</hi> Mr. <hi>Philips,</hi> Mr. <hi>Charls Price,</hi> Mr. <hi>Powel</hi> of <hi>St. Lythans,</hi> Mr. <hi>Larver,</hi> Mr. <hi>Davies,</hi> Mr. <hi>Warren,</hi> Mr. <hi>Jenkin Jones,</hi> Mr. <hi>Swain,</hi> Mr. <hi>Richard Powel,</hi> Mr. <hi>Abbot</hi> of <hi>Aber<g ref="char:EOLhyphen"/>geny,</hi> Mr. <hi>White</hi> of the county of <hi>Monmouth, Mr. Lucas</hi> of <hi>Preiſtign.</hi>
+               </p>
+               <p>And the Commisſioners in this preſent Ordinance authorized, ſhall and may grant out Warrants under the hands and Seals of them the reſpective Commisſioners, or any five of them, to be directed unto the perſon faulty as aforeſaid, or againſt whom ſuch
+<pb n="623" facs="tcp:169232:18"/> Articles, Charge or Information ſhall be prepared or exhibited, requiring his appear<g ref="char:EOLhyphen"/>ance before the ſaid Commiſſioners, or any five of them, at a certain day and place in the ſaid warrant mentioned, to anſwer the ſaid charge or Articles reſpectively. And after notice of the ſaid Warrant perſonally given to the party ſo convented or articled againſt, or left at his dwelling place, or ordinary place of aboad, and that notice proved by Oath to have been made, or given by the ſpace of five daies before the day of appearance in the ſaid warrant mentioned (no juſt cauſe being ſhewed and proved to excuſe the not appear<g ref="char:EOLhyphen"/>ing) And likewiſe after anſwer made by ſuch as ſhall appear upon Summons, or default of appearance, or anſwer after ſuch Sum<g ref="char:EOLhyphen"/>mons, proved as aforeſaid, Then the ſaid Commiſſioners, or any five of them, are hereby enabled and authorized to proceed to exami<g ref="char:EOLhyphen"/>nation of Witneſſes upon Oath (if the caſe ſo require) as well for, and on the behalf of the perſon accuſed or articled againſt, for making good his anſwer, as for proof of the ſaid Charge, Articles or Information; which oaths the ſaid Commiſſioners for the reſpec<g ref="char:EOLhyphen"/>tive Counties aforeſaid, or any five of them, are hereby authorized to adminiſter; And af<g ref="char:EOLhyphen"/>ter due examination and confeſſion of the par<g ref="char:EOLhyphen"/>ty, or proof made by the Oath of two credi<g ref="char:EOLhyphen"/>ble Witneſſes, or of one Witneſs with other concurrent evidence of the Charge, Articles, or Crime objected againſt him, according to any the particulars before expreſſed, to eject and diſplace all and every ſuch perſon and per<g ref="char:EOLhyphen"/>ſons from ſuch his and their reſpective Cures,
+<pb n="624" facs="tcp:169232:19"/> Benefices, Places and Charges as the ſaid Commiſſioners, or any five or more of them, upon ſuch hearing, ſhall adjudge to be guilty of any the Crimes aforeſaid; and ſhall en<g ref="char:EOLhyphen"/>ter their ſaid Iudgements into a Book fair<g ref="char:EOLhyphen"/>ly written, and to be kept for that purpoſe; and to ſequeſter as well the Houſes, Gleab, Stipend, and all other profits, and fruits belonging to ſuch Churches, Chappels, Schools, or Lectures whereof they are then poſſeſſed (allowing ſuch convenient time for his removal out of ſuch houſe) as the ſaid Commiſſioners, or any five or more of them, ſhall think fit.</p>
+               <p>Provided alwaies, And it is further Or<g ref="char:EOLhyphen"/>dained by the Authority aforeſaid, That be<g ref="char:EOLhyphen"/>fore the ſaid ſeveral and reſpective Commiſ<g ref="char:EOLhyphen"/>ſioners ſhall ſequeſter or eject any Miniſter or School-maſter for ignorance or inſufficien<g ref="char:EOLhyphen"/>cy, ſuch Miniſters or School-maſters, accu<g ref="char:EOLhyphen"/>ſed or queſtioned for ignorance or inſufficien<g ref="char:EOLhyphen"/>cy, ſhall be examined by the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, or any five or more of them, together with the Miniſters beforenamed for the reſpe<g ref="char:EOLhyphen"/>ctive Counties, or any five or more of them, and if upon ſuch examination or proof made upon Oath, it ſhall appear and be ſo decla<g ref="char:EOLhyphen"/>red under the hands of the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners and Miniſters who ſhall be preſent at ſuch examination and proof, or any ten or more of them, whereof five at leaſt to be of the ſaid Miniſters, that ſuch Miniſter or School-maſter is ignorant or inſufficient, Then the ſaid Miniſter or School-maſter ſhall be taken and deemed to be ignorant or in<g ref="char:EOLhyphen"/>ſufficient,
+<pb n="623" facs="tcp:169232:19"/> and ſhall for the ſame by the ſaid Commiſſioners in this preſent Ordinance au<g ref="char:EOLhyphen"/>thorized, be ſequeſtred and ejected out of ſuch Benefice, Lecture, or School, and the ſaid Iudgement entred in their Regiſter book, and the reaſons of ſuch their Iudgement.</p>
+               <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That in all caſes where any Miniſter or Lecturer hath been formerly eje<g ref="char:EOLhyphen"/>cted or ſequeſtred, and is yet living and none placed before the thirtieth day of <hi>Auguſt,</hi> One thouſand ſix hundred fifty and four, in his room or ſhall be ejected or ſequeſtred by virtue of this preſent Ordinance, it ſhall and may be lawful from time to time, to and for any perſon or perſons, having the lawful right of Patronage, Election, or Nomination at any time within four moneths from the eight and twentieth day of <hi>Auguſt,</hi> in caſe of ſuch as are or ſhall be ejected or ſequeſtred before that time and within four moneths after ſuch ejection or ſequeſtration by force of this Ordinance, to nominate unto the Commiſsi<g ref="char:EOLhyphen"/>oners appointed by Ordinance, for approbati<g ref="char:EOLhyphen"/>on of publique Preachers, a fit and able per<g ref="char:EOLhyphen"/>ſon in the place and room of ſuch Preacher or Lecturer ſo diſplaced, who upon ſuch ap<g ref="char:EOLhyphen"/>probation by the ſaid laſt mentioned Commiſ<g ref="char:EOLhyphen"/>ſioners, as in the ſaid Ordinance is directed, ſhall and may have, hold, enjoy and receive all and every the Houſes, Gleab, Tyths, and other Profits and Fruits belonging to ſuch Place, during the natural life of ſuch perſon ſo nominated and approved, unleſs he ſhall be
+<pb n="625" facs="tcp:169232:20"/> afterwards removed by the Commiſsioners authorized by this Ordinance, for any the Cauſes before mentioned, in as full and am<g ref="char:EOLhyphen"/>ple manner as ſuch perſon ſo diſplaced might have received or enjoyed the ſame. And for that purpoſe, in caſe of the death or reſignati<g ref="char:EOLhyphen"/>on of ſuch perſon ſo ejected or ſequeſtred, the Commiſſioners for approbation of Publique Preachers, ſhall and are hereby authorized, upon ſuch Nomination as is before mention<g ref="char:EOLhyphen"/>ed, without any further preſentation, and upon ſuch approbation as aforeſaid, to grant unto ſuch perſon admittance unto ſuch Bene<g ref="char:EOLhyphen"/>fice or Lecture, by an Inſtrument in writing, as in other caſes of Preſentation they are e<g ref="char:EOLhyphen"/>nabled to do; and in default of ſuch Nomi<g ref="char:EOLhyphen"/>nation within the reſpective times aforeſaid, the Preſentation for that turn ſhall devolve in lapſe unto the Lord Protector, and His Succeſſors.</p>
+               <p>Provided nevertheleſs, That in caſe the ſaid Commiſſioners ſhall find that ſuch Mini<g ref="char:EOLhyphen"/>ſter ſo diſplaced hath no other temporal eſtate ſufficient to maintain his Wife and Children, (if he have any) and in caſe ſuch Miniſter ſo diſplaced ſhall, by the time limitted by the ſaid Commiſſioners, leave the quiet and peaceable poſſeſſion of the Houſes, Gleab, or any othe Lands belonging to ſuch place, and remove his habitation out of ſuch Pariſh where the Church or Chappel from whence he was ſo ejected, is ſcituate, That then the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any five of them ſhall allow un<g ref="char:EOLhyphen"/>to the wife and Children of ſuch Miniſter
+<pb n="626" facs="tcp:169232:20"/> ſo ejected or diſplaced, for their maintenance, a proportion not exceeding the fift part of the profits of ſuch Benefice with Cure (all Pa<g ref="char:EOLhyphen"/>riſh charges, publique Taxes and other du<g ref="char:EOLhyphen"/>ties being firſt deducted out of the whole) which the ſaid Commiſſioners are hereby au<g ref="char:EOLhyphen"/>thorized to cauſe to be paid unto ſuch Wife and Children accordingly, and in default of conformity unto their order therin, from time to time to ſequeſter the profits of ſuch Bene<g ref="char:EOLhyphen"/>fice for the payment thereof, and all Charges in and about the ſame, during the life of ſuch Miniſter ſo ejected; And the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners, or any five or more of them; are hereby alſo impowred and authorized to place ſome fit and able perſon in ſuch School in the place and room of him ſo diſplaced, or in the place and room of any other School-maſter for<g ref="char:EOLhyphen"/>merly by any Authority of Parlament eject<g ref="char:EOLhyphen"/>ed, ſequeſtred, or diſplaced, and ſo may conti<g ref="char:EOLhyphen"/>nue to do during the life of ſuch ſequeſtred or ejected School-maſter, as often as the ſaid School ſhall be void; which perſon ſo to be placed ſhall and is hereby enabled to have, hold and enjoy all Houſes, Lands, or other Stipend belonging unto any ſuch School, as fully as the perſon ſo diſplaced ought to have done.</p>
+               <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all Miniſters or School-maſters nominated, preſented, placed or ſet<g ref="char:EOLhyphen"/>tled by virtue of, or according to the true meaning of this preſent Ordinance ſhall have the like Title to, and Intereſt in, all the pro<g ref="char:EOLhyphen"/>fits,
+<pb n="626" facs="tcp:169232:21"/> dues and perquiſits, belonging and ap<g ref="char:EOLhyphen"/>pertaining to the ſaid Parſonage, Vicaridge, Eccleſiaſtical promotion or School, and ſhall and may enjoy, have and make uſe of the ſame remedy in Law or Equity for recovery thereof in caſe of ſubſtraction, diſpoſſeſſion, treſpaſs, or any other injury, as any former Incumbent Lecturer or School-maſter, pre<g ref="char:EOLhyphen"/>ſented, elected, inducted or ſettled in ſuch Church, place or School had or enjoyed, or might have, had, enjoyed received or uſed. And all Iudges and Iuſtices of Peace are to take notice of this preſent Ordinance and to allow the ſame to be pleaded and given in e<g ref="char:EOLhyphen"/>vidence, and ſhall award and give Iudge<g ref="char:EOLhyphen"/>ments and executions for ſuch Miniſters, Lecturers and School-maſters placed and ſetled by virtue of this Ordinance, as their caſe in Law requires. And if any ſuch Mi<g ref="char:EOLhyphen"/>niſter, Lecturers or School-maſter nomina<g ref="char:EOLhyphen"/>ted or recommended in the room of ſuch eje<g ref="char:EOLhyphen"/>cted Miniſter, Lecturer or School-maſter, and approved as aforeſaid, cannot quietly obtain the poſſeſſion of ſuch Church, Chap<g ref="char:EOLhyphen"/>pel or School, or the dwelling Houſes ther<g ref="char:EOLhyphen"/>unto belonging, but ſhall find reſiſtance ther<g ref="char:EOLhyphen"/>in, or ſhall at any time be oppoſed or diſtur<g ref="char:EOLhyphen"/>bed in the exeeciſe of their Miniſtry or calling in the ſaid Churches, Chappels or Schools by the ſaid ejected Miniſters or School-ma<g ref="char:EOLhyphen"/>ſters, or by their means or procurement, or by any other perſon whatſoever, That in ſuch Caſes the ſaid Commiſſioners reſpec<g ref="char:EOLhyphen"/>tively authorized by this preſent Ordinance, or any five or more of them ſhall and may up<g ref="char:EOLhyphen"/>on
+<pb n="627" facs="tcp:169232:21"/> complaint to them made, make ſuch Or<g ref="char:EOLhyphen"/>ders under their hands and ſeals to the High Sheriff, or any one or more Iuſtice or Iuſti<g ref="char:EOLhyphen"/>ces of Peace of the ſaid County, as they ſhall think meet, who are hereby authorized and required to execute the ſame for ſettling the ſaid Miniſters, Lecturer or School-ma<g ref="char:EOLhyphen"/>ſters, ſo nominated, appointed and approv<g ref="char:EOLhyphen"/>ed as aforeſaid, in poſſeſſion of the ſaid Chur<g ref="char:EOLhyphen"/>ches, Chappels and Schools to which they were recommended, and for removing of all force, and preventing all diſturbance and op<g ref="char:EOLhyphen"/>poſition, and for the binding over the Ryo<g ref="char:EOLhyphen"/>tours, breakers of the Peace, and diſtur<g ref="char:EOLhyphen"/>bers thereof to the next Aſſizes, or quarter Seſſions of the ſaid County, or for commit<g ref="char:EOLhyphen"/>ting them to priſon, as the caſe ſhall require. And all Sheriffs, Iuſtices of the Peace, Conſtables, Church-Wardens, and other Officers and Miniſters of Iuſtice whatſo<g ref="char:EOLhyphen"/>ever are hereby required to be aiding and aſ<g ref="char:EOLhyphen"/>ſiſting to the ſaid Commiſſioners within their ſeveral limits, precincts and Iuriſdictions in all things touching the premiſſes.</p>
+               <p>And it is further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſaid ſeveral and re<g ref="char:EOLhyphen"/>ſpective Commiſſioners, in this preſent Ordi<g ref="char:EOLhyphen"/>nance authorized, ſhall and may take a view of all the Benefices with Cure, publique Lectures and Schools within their ſeverall and reſpectiue Counties, and of the Mini<g ref="char:EOLhyphen"/>ſters and School-maſters therein placed, and where they find any Miniſters unapproved by the Commiſſioners authorized to approve
+<pb n="628" facs="tcp:169232:22"/> of publique Preachers, who ought to have been approved by them, to certifie the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r names to the laſt mentioned Commiſſioners: And where they find that any Miniſter or School-maſter, that hath been formerly, or ſhall be ſe<g ref="char:EOLhyphen"/>queſtred or ejected hath without authority in<g ref="char:EOLhyphen"/>truded or ſhall intrude into the ſame Churches, Schools, or places from whence they were ſo ſequeſtred and ejected, That then the ſaid Commiſsioners cauſe ſuch ejected or ſequeſtred Incumbent, Miniſter, or School-maſter, to be forthwith removed as aforeſaid, and that in that, and all other caſes of vacancy, either of any Benefice with Cure, Lecture or School within the ſaid County, they do forthwith au<g ref="char:EOLhyphen"/>thorize ſome of the moſt honeſt and ſufficient perſons, in ſuch pariſh where the ſaid vacant Church or School is ſcituated to receive and gather the profits, perquiſits and dues belong<g ref="char:EOLhyphen"/>ing unto ſuch Church or School and that they mannage, order and preſerve the ſame for the beſt advantage and Benefit of ſuch School-maſter and Miniſter, as ſhall by virtue of this Ordinance; or by any other lawful Au<g ref="char:EOLhyphen"/>thority be afterwards ſettled and placed in the ſaid Church or School, ſaving that all ne<g ref="char:EOLhyphen"/>ceſſary Charges incident to the ejecting, ſeque<g ref="char:EOLhyphen"/>ſtring or removing of the former Miniſter and School-maſter, and placing of another there, according to the meaning of this Ordinance, and the ſupplying of the ſaid Churches and Schools, during the vacancy, with fit perſons to teach and inſtruct both the people and Schollars and repair of the buildings belong<g ref="char:EOLhyphen"/>ing to the ſaid Schools, Parſonages, Vica<g ref="char:EOLhyphen"/>ridges
+<pb n="629" facs="tcp:169232:22"/> or Curatſhips may be deducted out of the profits, and the reſidue juſtly and duely accompted for by ſuch perſons ſo authorized; unto which laſt mentioned purpoſe it ſhall and may be lawful for the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners to appoint and pay a Regiſter or Clerk to be made uſe of in the premiſſes, and other Officers, and to allow ſuch ſalaries, and de<g ref="char:EOLhyphen"/>fray ſuch incident charges as they ſhall find requiſite; the ſame ſalaries and charges being allowed and approved by the Truſtees for maintenance of preaching Miniſters and o<g ref="char:EOLhyphen"/>therpious uſes; and ſhall iſſue out of the mo<g ref="char:EOLhyphen"/>neys which ſhall be ſo raiſed in vacancies, as aforeſaid, and to call to accompt not onely all perſons ſo by them authorized to gather and preſerve the ſaid Profits, Dues and Perquiſits, but alſo all other perſons that have received and taken any Profits, Dues and Pecquiſits belonging unto any Church or Chappel, out of which any Miniſter hath heretofore been ejected or ſeque<g ref="char:EOLhyphen"/>ſtred during the vacancy thereof; and in caſe of refuſal to accompt, or to deliver the ſur<g ref="char:EOLhyphen"/>pluſages after the allowances and deductions made, which by this Ordinance are appoin<g ref="char:EOLhyphen"/>ted; then to cauſe ſuch perſons to be commit<g ref="char:EOLhyphen"/>ted until they accompt, and duly render and deliver ſuch ſurpluſage according to the true meaning of this Ordinance.</p>
+               <p>And further it is Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all ſuch Miniſters and School-maſters as have been or ſhall be placed by any Authority of Parlament, or
+<pb n="630" facs="tcp:169232:23"/> of this preſent Ordinance, ſhall conſtantly, and from time to time keep all the Houſes, and Buildings belonging unto the Parſona<g ref="char:EOLhyphen"/>ges, Vicaradges, Curatſhips, Lectures and Schools wherein they have been or ſhall be placed as aforeſaid, and the Chancels and Church yard, uſually and of right by their Predeceſſors repaired in ſuch good and ſuffici<g ref="char:EOLhyphen"/>ent repair, as the ſame buildings were at the time of their being ſettled and placed therein; And for default thereof, upon Complaint made thereof by the Church-wardens, or any other Inhabitant of ſuch Pariſh, where ſuch neglect of reparations ſhall happen, unto the Iuſtices of the Peace at their Generall Quarter Seſſions, or to any three of them out of the Seſſions, the ſaid Iuſtices of the Peace are hereby impowred to ſend for ſuch Miniſter or School-maſter before them, and to examine all ſuch defects of repair upon Oath, and after proof made thereof, and of the Charge that the making of ſuch repa<g ref="char:EOLhyphen"/>rations muſt neceſſarily require, to ſet down ſuch Order for making the ſaid reparations as the ſaid Iuſtices ſhall adjudge to be reaſo<g ref="char:EOLhyphen"/>nable and juſt; And if ſuch Order, as ſhall be ſo declared and made, after notice thereof gi<g ref="char:EOLhyphen"/>ven to ſuch Miniſter or School-maſter, be not by them obſerved and performed, That then it ſhall and may be lawful for the ſaid Iuſti<g ref="char:EOLhyphen"/>ces of Peace, by warrant to be iſſued under their hands and ſeals, to cauſe to be le<g ref="char:EOLhyphen"/>vied ſo much as by the ſaid Iuſtices of Peace ſhall be Ordered and Adjudged as a requiſite and neceſſary ſumme of money to defray the
+<pb n="631" facs="tcp:169232:23"/> Charges of ſuch reparations, by diſtreſs and ſale of the Goods and Chattles of ſuch Mi<g ref="char:EOLhyphen"/>niſter or School-maſter, who ought to have made the ſame reparations as aforeſaid, ren<g ref="char:EOLhyphen"/>dring the overplus back to the owner thereof.</p>
+               <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That no perſon after the nine and twentieth day of <hi>September</hi> one thouſand ſix hundred fifty and four, ſhall keep any School, or be a School-maſter within any County of <hi>England</hi> or <hi>Wales</hi> in ſuch Town, Pariſh or Place where ſuch School is ſitu<g ref="char:EOLhyphen"/>ate, out of which he hath been, or ſhall be ſequeſtred or ejected upon pain that as well the School-maſter, as alſo the party that ſhall retain or maintain any ſuch School-ma<g ref="char:EOLhyphen"/>ſter contrary to the true intent and meaning of this Ordinance, and being thereof convi<g ref="char:EOLhyphen"/>cted before the Iuſtices of Peace at their General Quarter Seſſions of the ſaid Coun<g ref="char:EOLhyphen"/>ty, ſhall forfeit each of them for every day ſo wittingly offending, ten ſhillings to the uſe of the poor of the Pariſh where ſuch offence is committed.</p>
+               <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Commiſſioners by this Ordinance au<g ref="char:EOLhyphen"/>thorized ſhall not defer the putting in executi<g ref="char:EOLhyphen"/>on the powers to them intruſted by this pre<g ref="char:EOLhyphen"/>ſent Ordinance, and their meeting for that purpoſe longer than twenty daies after the publication of this preſent Ordinance, but ſhall with all diligence and care forthwith endeavour the diſcharge of their ſaid Truſt, and from time to time appoint ſome one con<g ref="char:EOLhyphen"/>venient
+<pb n="632" facs="tcp:169232:24"/> place in their ſaid reſpective Countys for their meeting as aforeſaid, as may be moſt convenient for reſort of ſuch perſons as ſhall be called before them.</p>
+               <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſaid ſeveral and re<g ref="char:EOLhyphen"/>ſpective Commiſſioners, upon complaint made unto them, by any Miniſter that hath been formerly placed by the late Committee for plundred Miniſters, or any other Authority of Parlament, in any Church or Chappel in the room of any ſequeſtred or ejected Incum<g ref="char:EOLhyphen"/>bent &amp; now removed from thence, or diſpoſſeſſed thereof by reaſon of the death of ſuch ſeque<g ref="char:EOLhyphen"/>ſtred or ejected Incumbent; or who hath been preſented by any Patron ſince the firſt of <hi>April</hi> one thouſand ſix hundred fifty and three, and hath not or ſhall not obtain a Teſtimonial from the Commisſioners for approbation of Publique Preachers, as by the Ordinance ap<g ref="char:EOLhyphen"/>pointing Commiſſioners for approbation of publick Preachers is directed, that there is du unto ſuch M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſter any Arrears of Tyths, or other duties whatſoever belonging to the ſaid Churches or Chappels which have incurred while ſuch Miniſter did exerciſe his Miniſtry in ſuch Church or Chappel; That in all ſuch Caſes the ſaid Commiſſioners, or any five or more of them, ſhall and may without requir<g ref="char:EOLhyphen"/>ing any ſuch Teſtimonial to be produced by ſuch Miniſter, ſummon to come before them all and every ſuch perſon and perſons as do or ſhall refuſe to pay ſuch Arrears, and pro<g ref="char:EOLhyphen"/>ceed to hear and determine the ſaid Com<g ref="char:EOLhyphen"/>plaints, and give ſuch remedy for obtaining ſuch Arrears as any the Iuſtices of Peace
+<pb n="633" facs="tcp:169232:24"/> may do for recovery of Tythes ſubſtracted or with-held from the Incumbent by virtue of an Ordinance of Parlament, entituled, <hi>An Ordinance for the true payment of Tythes,</hi> and other ſuch duties according to the Law and Cuſtomes of the Realm; or as any ſuch Iuſtices of Peace might have done by virtue of another Ordinance of the ninth of <hi>Auguſt</hi> one thouſand ſix hundred fourty and ſeven, and entituled, <hi>An Additional Ordinance for the true payment of Tythes and other duties.</hi>
+               </p>
+               <p>And be it further Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the ſaid laſt mention<g ref="char:EOLhyphen"/>ed Ordinance of the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nth of <hi>Auguſt</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and ſeven ſhall be, and is hereby revived, and ſhall be and ſtand in full power, force and virtue.</p>
+               <p>Provided, That this Ordinance or any thing therein contained ſhall not extend to en<g ref="char:EOLhyphen"/>able any perſon or perſons heretofore declared a Delinquent by authority of Parlament, his or their Heirs or Aſſigns, to preſent or nomi<g ref="char:EOLhyphen"/>nate to any Benefice or Eccleſiaſtical promoti<g ref="char:EOLhyphen"/>on, otherwiſe than he or they might have done before the paſſing of this Ordinance.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <date>
+                  <hi>Tueſday</hi> Auguſt 29. 1654.</date>
+            </opener>
+            <p>ORdered by His Highneſs the Lord Protector and his Council, That this Ordinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
